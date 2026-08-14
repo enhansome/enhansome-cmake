@@ -101,10 +101,10 @@
           "repo_info": {
             "archived": false,
             "language": "CMake",
-            "last_commit": "2026-08-13T18:40:35Z",
+            "last_commit": "2026-08-14T09:40:15Z",
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27356
+            "stars": 27357
           }
         },
         {
@@ -118,7 +118,7 @@
             "last_commit": "2026-07-25T20:55:58Z",
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13141
+            "stars": 13143
           }
         },
         {
@@ -129,10 +129,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T13:51:09Z",
+            "last_commit": "2026-08-14T10:38:39Z",
             "owner": "conan-io",
             "repo": "conan",
-            "stars": 9478
+            "stars": 9480
           }
         },
         {
@@ -146,7 +146,7 @@
             "last_commit": "2026-07-06T12:22:10Z",
             "owner": "cpm-cmake",
             "repo": "CPM.cmake",
-            "stars": 4089
+            "stars": 4091
           }
         },
         {
@@ -160,7 +160,7 @@
             "last_commit": "2019-12-26T05:31:00Z",
             "owner": "ruslo",
             "repo": "hunter",
-            "stars": 1895
+            "stars": 1894
           }
         },
         {
@@ -289,7 +289,7 @@
           "repo_info": {
             "archived": false,
             "language": "CMake",
-            "last_commit": "2026-08-12T23:27:38Z",
+            "last_commit": "2026-08-14T18:59:35Z",
             "owner": "KDE",
             "repo": "extra-cmake-modules",
             "stars": 154
@@ -806,7 +806,7 @@
             "last_commit": "2026-07-30T18:22:23Z",
             "owner": "dockcross",
             "repo": "dockcross",
-            "stars": 3604
+            "stars": 3605
           }
         },
         {
@@ -820,7 +820,7 @@
             "last_commit": "2018-02-16T04:32:27Z",
             "owner": "taka-no-me",
             "repo": "android-cmake",
-            "stars": 1229
+            "stars": 1228
           }
         },
         {
@@ -958,7 +958,7 @@
             "last_commit": "2024-02-28T22:39:37Z",
             "owner": "ttroy50",
             "repo": "cmake-examples",
-            "stars": 13068
+            "stars": 13070
           }
         },
         {
@@ -1283,7 +1283,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T22:39:45Z",
+            "last_commit": "2026-08-14T16:23:27Z",
             "owner": "scikit-build",
             "repo": "scikit-build",
             "stars": 535
@@ -1593,7 +1593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T19:58:51.704Z",
+    "last_updated": "2026-08-14T19:53:05.268Z",
     "original_repository": "onqtam/awesome-cmake",
     "original_repository_sha": "40dfb5e378c52cba5710e8041a70c7bca91d883e",
     "enhanced_repository": "enhansome/enhansome-cmake",
