@@ -101,10 +101,10 @@
           "repo_info": {
             "archived": false,
             "language": "CMake",
-            "last_commit": "2026-08-14T09:40:15Z",
+            "last_commit": "2026-08-15T13:59:33Z",
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27357
+            "stars": 27363
           }
         },
         {
@@ -118,7 +118,7 @@
             "last_commit": "2026-07-25T20:55:58Z",
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13143
+            "stars": 13146
           }
         },
         {
@@ -129,10 +129,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T10:38:39Z",
+            "last_commit": "2026-08-15T17:39:29Z",
             "owner": "conan-io",
             "repo": "conan",
-            "stars": 9480
+            "stars": 9482
           }
         },
         {
@@ -146,7 +146,7 @@
             "last_commit": "2026-07-06T12:22:10Z",
             "owner": "cpm-cmake",
             "repo": "CPM.cmake",
-            "stars": 4091
+            "stars": 4093
           }
         },
         {
@@ -188,7 +188,7 @@
             "last_commit": "2026-01-26T18:34:50Z",
             "owner": "floooh",
             "repo": "fips",
-            "stars": 505
+            "stars": 506
           }
         },
         {
@@ -289,7 +289,7 @@
           "repo_info": {
             "archived": false,
             "language": "CMake",
-            "last_commit": "2026-08-14T18:59:35Z",
+            "last_commit": "2026-08-15T10:46:09Z",
             "owner": "KDE",
             "repo": "extra-cmake-modules",
             "stars": 154
@@ -958,7 +958,7 @@
             "last_commit": "2024-02-28T22:39:37Z",
             "owner": "ttroy50",
             "repo": "cmake-examples",
-            "stars": 13070
+            "stars": 13072
           }
         },
         {
@@ -986,7 +986,7 @@
             "last_commit": "2021-06-01T21:39:14Z",
             "owner": "dev-cafe",
             "repo": "cmake-cookbook",
-            "stars": 2850
+            "stars": 2849
           }
         },
         {
@@ -1000,7 +1000,7 @@
             "last_commit": "2024-04-26T09:25:43Z",
             "owner": "vector-of-bool",
             "repo": "pitchfork",
-            "stars": 1253
+            "stars": 1254
           }
         },
         {
@@ -1593,7 +1593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T19:53:05.268Z",
+    "last_updated": "2026-08-15T19:30:27.493Z",
     "original_repository": "onqtam/awesome-cmake",
     "original_repository_sha": "40dfb5e378c52cba5710e8041a70c7bca91d883e",
     "enhanced_repository": "enhansome/enhansome-cmake",
