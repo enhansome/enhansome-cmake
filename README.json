@@ -101,10 +101,10 @@
           "repo_info": {
             "archived": false,
             "language": "CMake",
-            "last_commit": "2026-08-15T13:59:33Z",
+            "last_commit": "2026-08-15T21:46:38Z",
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27363
+            "stars": 27367
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2026-08-15T17:39:29Z",
             "owner": "conan-io",
             "repo": "conan",
-            "stars": 9482
+            "stars": 9483
           }
         },
         {
@@ -146,7 +146,7 @@
             "last_commit": "2026-07-06T12:22:10Z",
             "owner": "cpm-cmake",
             "repo": "CPM.cmake",
-            "stars": 4093
+            "stars": 4094
           }
         },
         {
@@ -160,7 +160,7 @@
             "last_commit": "2019-12-26T05:31:00Z",
             "owner": "ruslo",
             "repo": "hunter",
-            "stars": 1894
+            "stars": 1890
           }
         },
         {
@@ -904,7 +904,7 @@
             "last_commit": "2026-07-16T12:14:16Z",
             "owner": "mosra",
             "repo": "toolchains",
-            "stars": 96
+            "stars": 97
           }
         },
         {
@@ -972,7 +972,7 @@
             "last_commit": "2026-05-30T18:52:20Z",
             "owner": "TheLartians",
             "repo": "ModernCppStarter",
-            "stars": 5386
+            "stars": 5387
           }
         },
         {
@@ -1593,7 +1593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T19:30:27.493Z",
+    "last_updated": "2026-08-16T19:30:14.762Z",
     "original_repository": "onqtam/awesome-cmake",
     "original_repository_sha": "40dfb5e378c52cba5710e8041a70c7bca91d883e",
     "enhanced_repository": "enhansome/enhansome-cmake",
