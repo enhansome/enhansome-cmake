@@ -101,10 +101,10 @@
           "repo_info": {
             "archived": false,
             "language": "CMake",
-            "last_commit": "2026-08-15T21:46:38Z",
+            "last_commit": "2026-08-17T19:15:26Z",
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27367
+            "stars": 27369
           }
         },
         {
@@ -118,7 +118,7 @@
             "last_commit": "2026-07-25T20:55:58Z",
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13146
+            "stars": 13150
           }
         },
         {
@@ -129,10 +129,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T17:39:29Z",
+            "last_commit": "2026-08-17T09:01:53Z",
             "owner": "conan-io",
             "repo": "conan",
-            "stars": 9483
+            "stars": 9484
           }
         },
         {
@@ -806,7 +806,7 @@
             "last_commit": "2026-07-30T18:22:23Z",
             "owner": "dockcross",
             "repo": "dockcross",
-            "stars": 3605
+            "stars": 3606
           }
         },
         {
@@ -958,7 +958,7 @@
             "last_commit": "2024-02-28T22:39:37Z",
             "owner": "ttroy50",
             "repo": "cmake-examples",
-            "stars": 13072
+            "stars": 13074
           }
         },
         {
@@ -972,7 +972,7 @@
             "last_commit": "2026-05-30T18:52:20Z",
             "owner": "TheLartians",
             "repo": "ModernCppStarter",
-            "stars": 5387
+            "stars": 5388
           }
         },
         {
@@ -1283,7 +1283,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T16:23:27Z",
+            "last_commit": "2026-08-17T18:29:51Z",
             "owner": "scikit-build",
             "repo": "scikit-build",
             "stars": 535
@@ -1507,7 +1507,7 @@
           "repo_info": {
             "archived": false,
             "language": "CMake",
-            "last_commit": "2026-08-13T14:39:17Z",
+            "last_commit": "2026-08-17T09:48:37Z",
             "owner": "HEP-SoC",
             "repo": "SoCMake",
             "stars": 44
@@ -1549,7 +1549,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-10T12:08:11Z",
+            "last_commit": "2026-08-17T12:09:05Z",
             "owner": "cmakefmt",
             "repo": "cmakefmt",
             "stars": 19
@@ -1593,7 +1593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T19:30:14.762Z",
+    "last_updated": "2026-08-17T19:37:00.902Z",
     "original_repository": "onqtam/awesome-cmake",
     "original_repository_sha": "40dfb5e378c52cba5710e8041a70c7bca91d883e",
     "enhanced_repository": "enhansome/enhansome-cmake",
