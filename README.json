@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47987094,
             "language": null,
             "last_commit": "2023-06-05T07:18:21Z",
             "owner": "ruslo",
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66274989,
             "language": "CMake",
             "last_commit": "2016-08-31T03:57:29Z",
             "owner": "toeb",
             "repo": "moderncmake",
-            "stars": 246
+            "stars": 245
           }
         },
         {
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 157400748,
             "language": "CMake",
             "last_commit": "2020-02-11T14:32:23Z",
             "owner": "DenizThatMenace",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 157400748,
             "language": "CMake",
             "last_commit": "2020-02-11T14:32:23Z",
             "owner": "DenizThatMenace",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80832025,
             "language": "C++",
             "last_commit": "2022-01-15T15:08:52Z",
             "owner": "Wigner-GPU-Lab",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 246877054,
             "language": "CMake",
             "last_commit": "2020-03-12T16:10:57Z",
             "owner": "schweitzer",
@@ -91,7 +97,7 @@
       "title": "Resources"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -100,11 +106,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68312233,
             "language": "CMake",
-            "last_commit": "2026-08-18T19:05:24Z",
+            "last_commit": "2026-08-19T01:36:05Z",
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27371
+            "stars": 27375
           }
         },
         {
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1335132,
             "language": "C++",
             "last_commit": "2026-07-25T20:55:58Z",
             "owner": "ninja-build",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47190624,
             "language": "Python",
             "last_commit": "2026-08-18T09:49:48Z",
             "owner": "conan-io",
@@ -142,11 +151,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 180373079,
             "language": "CMake",
             "last_commit": "2026-07-06T12:22:10Z",
             "owner": "cpm-cmake",
             "repo": "CPM.cmake",
-            "stars": 4096
+            "stars": 4097
           }
         },
         {
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 14202056,
             "language": "CMake",
             "last_commit": "2019-12-26T05:31:00Z",
             "owner": "ruslo",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12834577,
             "language": "CMake",
             "last_commit": "2021-08-28T15:17:32Z",
             "owner": "iauns",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27764892,
             "language": "Python",
             "last_commit": "2026-01-26T18:34:50Z",
             "owner": "floooh",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52641298,
             "language": "Python",
             "last_commit": "2026-07-14T22:59:42Z",
             "owner": "pfultz2",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 163286148,
             "language": "CMake",
             "last_commit": "2021-02-15T15:49:42Z",
             "owner": "AnotherFoxGuy",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 739917709,
             "language": "CMake",
             "last_commit": "2026-05-04T03:26:00Z",
             "owner": "jpetrie",
@@ -237,7 +253,7 @@
       "title": "Package Management / Build Systems"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -246,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 987281,
             "language": "CMake",
             "last_commit": "2025-02-10T19:46:56Z",
             "owner": "rpavlik",
@@ -260,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2342436,
             "language": "CMake",
             "last_commit": "2026-03-25T14:17:20Z",
             "owner": "bilke",
@@ -274,6 +292,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52907839,
             "language": "CMake",
             "last_commit": "2021-05-01T15:47:22Z",
             "owner": "ldionne",
@@ -288,6 +307,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42733731,
             "language": "CMake",
             "last_commit": "2026-08-15T10:46:09Z",
             "owner": "KDE",
@@ -302,6 +322,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3774178,
             "language": "CMake",
             "last_commit": "2023-12-05T09:07:13Z",
             "owner": "Eyescale",
@@ -316,6 +337,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29118239,
             "language": "CMake",
             "last_commit": "2021-06-08T04:09:23Z",
             "owner": "chadmv",
@@ -330,6 +352,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30376369,
             "language": "CMake",
             "last_commit": "2018-03-22T17:21:11Z",
             "owner": "justusc",
@@ -344,6 +367,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71563,
             "language": "CMake",
             "last_commit": "2020-10-21T22:09:18Z",
             "owner": "jedbrown",
@@ -358,6 +382,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1140235,
             "language": "CMake",
             "last_commit": "2025-08-08T13:13:32Z",
             "owner": "sakra",
@@ -372,6 +397,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13105609,
             "language": "CMake",
             "last_commit": "2026-07-24T08:34:38Z",
             "owner": "robotology",
@@ -386,6 +412,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1942505,
             "language": "C",
             "last_commit": "2017-01-07T16:39:41Z",
             "owner": "julp",
@@ -400,6 +427,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7725525,
             "language": "CMake",
             "last_commit": "2015-04-19T09:19:16Z",
             "owner": "hanjianwei",
@@ -414,6 +442,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 144862518,
             "language": "CMake",
             "last_commit": "2026-06-30T11:52:23Z",
             "owner": "apriorit",
@@ -428,6 +457,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135570673,
             "language": "CMake",
             "last_commit": "2022-10-31T22:10:16Z",
             "owner": "apriorit",
@@ -442,18 +472,13 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 163581896,
             "language": "CMake",
             "last_commit": "2022-05-18T12:29:19Z",
             "owner": "AnotherFoxGuy",
             "repo": "CMakeCM",
             "stars": 2
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Oranges",
-          "description": "Ben Vining's library of CMake modules and toolchains",
-          "children": []
         }
       ],
       "title": "Modules"
@@ -468,11 +493,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 3687959,
             "language": "CMake",
             "last_commit": "2019-12-23T15:00:32Z",
             "owner": "sakra",
             "repo": "cotire",
-            "stars": 1298
+            "stars": 1297
           }
         },
         {
@@ -482,6 +508,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16892201,
             "language": "CMake",
             "last_commit": "2021-12-27T23:51:26Z",
             "owner": "toeb",
@@ -496,6 +523,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 47436389,
             "language": "CMake",
             "last_commit": "2023-10-07T04:17:36Z",
             "owner": "Crascit",
@@ -510,6 +538,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13357546,
             "language": "CMake",
             "last_commit": "2025-11-04T04:20:15Z",
             "owner": "arsenm",
@@ -524,6 +553,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37800164,
             "language": "CMake",
             "last_commit": "2023-03-13T21:49:21Z",
             "owner": "onqtam",
@@ -538,6 +568,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24126332,
             "language": "CMake",
             "last_commit": "2019-11-01T19:32:38Z",
             "owner": "larsch",
@@ -552,6 +583,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 152735080,
             "language": "CMake",
             "last_commit": "2022-09-01T06:03:44Z",
             "owner": "ixm-one",
@@ -566,6 +598,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29347926,
             "language": "CMake",
             "last_commit": "2019-10-26T09:35:06Z",
             "owner": "nanoant",
@@ -580,6 +613,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 13699588,
             "language": "CMake",
             "last_commit": "2020-02-16T22:35:29Z",
             "owner": "ruslo",
@@ -594,6 +628,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37468801,
             "language": "CMake",
             "last_commit": "2026-04-03T07:54:08Z",
             "owner": "RWTH-HPC",
@@ -608,6 +643,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28113573,
             "language": "CMake",
             "last_commit": "2020-02-26T19:57:01Z",
             "owner": "JoakimSoderberg",
@@ -622,6 +658,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 40319034,
             "language": "CMake",
             "last_commit": "2017-02-21T09:49:16Z",
             "owner": "foonathan",
@@ -636,6 +673,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86213564,
             "language": "CMake",
             "last_commit": "2019-01-18T23:37:40Z",
             "owner": "pfultz2",
@@ -650,6 +688,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20317958,
             "language": "CMake",
             "last_commit": "2022-11-04T12:41:07Z",
             "owner": "Tronic",
@@ -664,6 +703,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12113291,
             "language": "CMake",
             "last_commit": "2023-06-07T13:35:03Z",
             "owner": "UCL",
@@ -678,6 +718,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16282541,
             "language": "CMake",
             "last_commit": "2017-05-31T05:28:33Z",
             "owner": "polysquare",
@@ -692,6 +733,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 6127602,
             "language": "CMake",
             "last_commit": "2022-06-09T12:24:05Z",
             "owner": "janelia-flyem",
@@ -706,6 +748,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14675361,
             "language": "CMake",
             "last_commit": "2016-05-30T13:38:24Z",
             "owner": "polysquare",
@@ -720,6 +763,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24407190,
             "language": "CMake",
             "last_commit": "2016-05-31T00:47:53Z",
             "owner": "polysquare",
@@ -734,6 +778,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24561616,
             "language": "CMake",
             "last_commit": "2016-05-30T14:17:45Z",
             "owner": "polysquare",
@@ -748,6 +793,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23377199,
             "language": "CMake",
             "last_commit": "2016-05-26T04:47:09Z",
             "owner": "polysquare",
@@ -762,6 +808,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24671941,
             "language": "CMake",
             "last_commit": "2016-05-30T13:30:41Z",
             "owner": "polysquare",
@@ -776,24 +823,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 749176884,
             "language": "CMake",
             "last_commit": "2025-04-11T13:02:07Z",
             "owner": "XiaoLey",
             "repo": "fetch_paths.cmake",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "CMakeCooking",
-          "description": "Flexible development environments for CMake projects with external dependencies .",
-          "children": []
         }
       ],
       "title": "Utility Scripts"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -802,6 +844,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35052287,
             "language": "Shell",
             "last_commit": "2026-07-30T18:22:23Z",
             "owner": "dockcross",
@@ -816,6 +859,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6751113,
             "language": "CMake",
             "last_commit": "2018-02-16T04:32:27Z",
             "owner": "taka-no-me",
@@ -830,6 +874,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 14066763,
             "language": "CMake",
             "last_commit": "2021-05-16T19:56:08Z",
             "owner": "ruslo",
@@ -844,6 +889,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15473490,
             "language": "CMake",
             "last_commit": "2020-09-02T07:20:42Z",
             "owner": "cristeab",
@@ -858,6 +904,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30702319,
             "language": "CMake",
             "last_commit": "2022-05-09T05:42:10Z",
             "owner": "LaurentGomila",
@@ -872,6 +919,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15548568,
             "language": "CMake",
             "last_commit": "2022-04-17T02:20:50Z",
             "owner": "mkleemann",
@@ -886,6 +934,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 248545399,
             "language": "CMake",
             "last_commit": "2023-02-24T19:49:07Z",
             "owner": "a9183756-gh",
@@ -900,6 +949,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 921572,
             "language": "CMake",
             "last_commit": "2026-07-16T12:14:16Z",
             "owner": "mosra",
@@ -914,6 +964,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50066064,
             "language": "CMake",
             "last_commit": "2021-01-11T06:09:23Z",
             "owner": "francoiscampbell",
@@ -928,24 +979,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36188453,
             "language": "CMake",
             "last_commit": "2019-05-09T13:29:54Z",
             "owner": "staticlibs",
             "repo": "cmake",
             "stars": 11
           }
-        },
-        {
-          "node_type": "item",
-          "title": "mingw-w64-cmake",
-          "description": "CMake-based MinGW-w64 Cross Toolchain - to build Windows binaries of mpv.",
-          "children": []
         }
       ],
       "title": "Toolchains"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -954,6 +1000,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46611889,
             "language": "CMake",
             "last_commit": "2024-02-28T22:39:37Z",
             "owner": "ttroy50",
@@ -968,6 +1015,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 254842585,
             "language": "CMake",
             "last_commit": "2026-05-30T18:52:20Z",
             "owner": "TheLartians",
@@ -982,6 +1030,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 100197636,
             "language": "C++",
             "last_commit": "2021-06-01T21:39:14Z",
             "owner": "dev-cafe",
@@ -996,6 +1045,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 145937248,
             "language": "C++",
             "last_commit": "2024-04-26T09:25:43Z",
             "owner": "vector-of-bool",
@@ -1010,6 +1060,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 174715721,
             "language": "CMake",
             "last_commit": "2025-02-22T22:13:03Z",
             "owner": "pr0g",
@@ -1024,6 +1075,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15971519,
             "language": "CMake",
             "last_commit": "2026-08-04T15:57:00Z",
             "owner": "cginternals",
@@ -1038,6 +1090,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 122105603,
             "language": "CMake",
             "last_commit": "2021-03-18T23:03:58Z",
             "owner": "pabloariasal",
@@ -1052,6 +1105,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52855744,
             "language": "CMake",
             "last_commit": "2023-09-19T12:15:35Z",
             "owner": "bsamseth",
@@ -1066,6 +1120,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15777567,
             "language": "CMake",
             "last_commit": "2021-06-30T11:48:05Z",
             "owner": "forexample",
@@ -1080,6 +1135,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24837748,
             "language": "CMake",
             "last_commit": "2021-01-13T16:07:10Z",
             "owner": "robotology",
@@ -1094,6 +1150,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72276083,
             "language": "CMake",
             "last_commit": "2025-08-06T14:03:12Z",
             "owner": "Lectem",
@@ -1108,6 +1165,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8625646,
             "language": "CMake",
             "last_commit": "2025-08-05T21:33:47Z",
             "owner": "euler0",
@@ -1122,6 +1180,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44135374,
             "language": "CMake",
             "last_commit": "2019-01-17T15:23:32Z",
             "owner": "krux02",
@@ -1136,6 +1195,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27336855,
             "language": "CMake",
             "last_commit": "2021-02-04T18:28:58Z",
             "owner": "bast",
@@ -1150,6 +1210,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87725664,
             "language": "CMake",
             "last_commit": "2026-08-01T20:59:53Z",
             "owner": "acdemiralp",
@@ -1164,6 +1225,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 124443122,
             "language": "CMake",
             "last_commit": "2018-09-12T14:43:56Z",
             "owner": "arnavb",
@@ -1178,6 +1240,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 146879265,
             "language": "Python",
             "last_commit": "2022-05-30T22:55:30Z",
             "owner": "joshpeterson",
@@ -1192,6 +1255,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135988892,
             "language": null,
             "last_commit": "2019-07-11T07:25:44Z",
             "owner": "adishavit",
@@ -1206,6 +1270,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21088478,
             "language": "CMake",
             "last_commit": "2019-02-20T13:22:17Z",
             "owner": "abandonware-pjz37",
@@ -1220,6 +1285,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56403590,
             "language": "C++",
             "last_commit": "2021-07-07T13:48:09Z",
             "owner": "cmake-basis",
@@ -1234,6 +1300,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86520668,
             "language": "CMake",
             "last_commit": "2021-09-07T12:17:40Z",
             "owner": "ptsouchlos",
@@ -1248,6 +1315,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36683652,
             "language": "C++",
             "last_commit": "2016-12-25T08:28:31Z",
             "owner": "abandonware-pjz37",
@@ -1262,6 +1330,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 848524654,
             "language": "CMake",
             "last_commit": "2026-07-05T05:06:47Z",
             "owner": "MhmRhm",
@@ -1273,7 +1342,7 @@
       "title": "Examples / Templates"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1282,6 +1351,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21749516,
             "language": "Python",
             "last_commit": "2026-08-17T18:29:51Z",
             "owner": "scikit-build",
@@ -1296,6 +1366,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16236582,
             "language": "C",
             "last_commit": "2024-03-16T04:09:07Z",
             "owner": "jlblancoc",
@@ -1310,6 +1381,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 221021896,
             "language": "Python",
             "last_commit": "2025-02-11T02:50:57Z",
             "owner": "regen100",
@@ -1324,6 +1396,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 2729788,
             "language": "Python",
             "last_commit": "2025-05-31T16:51:23Z",
             "owner": "ros",
@@ -1338,6 +1411,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17402927,
             "language": "CMake",
             "last_commit": "2023-01-12T08:45:45Z",
             "owner": "bjornblissing",
@@ -1352,6 +1426,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 9108893,
             "language": "Vala",
             "last_commit": "2018-08-06T14:45:44Z",
             "owner": "rastersoft",
@@ -1366,6 +1441,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 6603611,
             "language": "Python",
             "last_commit": "2019-06-07T13:48:40Z",
             "owner": "richq",
@@ -1380,6 +1456,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 96710664,
             "language": "CMake",
             "last_commit": "2022-03-04T10:24:14Z",
             "owner": "cristianadam",
@@ -1394,6 +1471,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32297983,
             "language": null,
             "last_commit": "2017-06-08T02:15:33Z",
             "owner": "nemequ",
@@ -1408,6 +1486,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45079516,
             "language": "Java",
             "last_commit": "2026-02-24T14:27:12Z",
             "owner": "cmake-maven-plugin",
@@ -1422,6 +1501,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 44123310,
             "language": "CMake",
             "last_commit": "2021-05-13T14:37:29Z",
             "owner": "cjntaylor",
@@ -1436,6 +1516,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23128795,
             "language": "C++",
             "last_commit": "2025-03-10T03:15:54Z",
             "owner": "h4tr3d",
@@ -1450,6 +1531,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13512659,
             "language": "CMake",
             "last_commit": "2023-06-09T09:57:36Z",
             "owner": "dcarp",
@@ -1464,6 +1546,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23444363,
             "language": "CMake",
             "last_commit": "2017-10-24T20:48:53Z",
             "owner": "kbenzie",
@@ -1478,6 +1561,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9248998,
             "language": "CMake",
             "last_commit": "2024-04-18T13:22:49Z",
             "owner": "Lindydancer",
@@ -1492,6 +1576,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36069881,
             "language": "CMake",
             "last_commit": "2026-04-13T16:58:55Z",
             "owner": "dev-cafe",
@@ -1506,6 +1591,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 774482172,
             "language": "CMake",
             "last_commit": "2026-08-17T09:48:37Z",
             "owner": "HEP-SoC",
@@ -1520,6 +1606,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27058835,
             "language": "Python",
             "last_commit": "2022-04-13T17:08:24Z",
             "owner": "polysquare",
@@ -1534,6 +1621,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 136742750,
             "language": "TypeScript",
             "last_commit": "2020-03-16T22:41:32Z",
             "owner": "DaelDe",
@@ -1548,6 +1636,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1198922986,
             "language": "Rust",
             "last_commit": "2026-08-17T12:09:05Z",
             "owner": "cmakefmt",
@@ -1562,6 +1651,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 488620604,
             "language": "CMake",
             "last_commit": "2022-05-04T16:50:29Z",
             "owner": "MhmRhm",
@@ -1576,6 +1666,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1217159688,
             "language": "C++",
             "last_commit": "2026-06-12T08:33:04Z",
             "owner": "pt9912",
@@ -1585,16 +1676,12 @@
         }
       ],
       "title": "Other"
-    },
-    {
-      "description": "This is released under the License .",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T19:36:09.284Z",
+    "last_updated": "2026-08-19T12:26:46.614Z",
     "original_repository": "onqtam/awesome-cmake",
+    "original_repository_id": 67722380,
     "original_repository_sha": "40dfb5e378c52cba5710e8041a70c7bca91d883e",
     "enhanced_repository": "enhansome/enhansome-cmake",
     "enhanced_repository_description": null,
