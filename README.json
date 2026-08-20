@@ -108,10 +108,10 @@
             "archived": false,
             "id": 68312233,
             "language": "CMake",
-            "last_commit": "2026-08-19T17:37:10Z",
+            "last_commit": "2026-08-20T19:39:14Z",
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27375
+            "stars": 27379
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-07-25T20:55:58Z",
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13156
+            "stars": 13160
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-08-18T09:49:48Z",
             "owner": "conan-io",
             "repo": "conan",
-            "stars": 9487
+            "stars": 9488
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2026-07-06T12:22:10Z",
             "owner": "cpm-cmake",
             "repo": "CPM.cmake",
-            "stars": 4098
+            "stars": 4099
           }
         },
         {
@@ -1020,7 +1020,7 @@
             "last_commit": "2026-05-30T18:52:20Z",
             "owner": "TheLartians",
             "repo": "ModernCppStarter",
-            "stars": 5390
+            "stars": 5391
           }
         },
         {
@@ -1035,7 +1035,7 @@
             "last_commit": "2021-06-01T21:39:14Z",
             "owner": "dev-cafe",
             "repo": "cmake-cookbook",
-            "stars": 2850
+            "stars": 2849
           }
         },
         {
@@ -1050,7 +1050,7 @@
             "last_commit": "2024-04-26T09:25:43Z",
             "owner": "vector-of-bool",
             "repo": "pitchfork",
-            "stars": 1254
+            "stars": 1255
           }
         },
         {
@@ -1679,7 +1679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T19:35:12.362Z",
+    "last_updated": "2026-08-20T19:40:51.898Z",
     "original_repository": "onqtam/awesome-cmake",
     "original_repository_id": 67722380,
     "original_repository_sha": "40dfb5e378c52cba5710e8041a70c7bca91d883e",
