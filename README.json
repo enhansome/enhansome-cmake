@@ -108,10 +108,10 @@
             "archived": false,
             "id": 68312233,
             "language": "CMake",
-            "last_commit": "2026-08-24T11:17:53Z",
+            "last_commit": "2026-08-24T18:50:42Z",
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27390
+            "stars": 27391
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-08-24T12:06:42Z",
             "owner": "conan-io",
             "repo": "conan",
-            "stars": 9492
+            "stars": 9493
           }
         },
         {
@@ -1679,7 +1679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:53:29.487Z",
+    "last_updated": "2026-08-24T19:39:30.864Z",
     "original_repository": "onqtam/awesome-cmake",
     "original_repository_id": 67722380,
     "original_repository_sha": "40dfb5e378c52cba5710e8041a70c7bca91d883e",
