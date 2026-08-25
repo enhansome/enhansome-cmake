@@ -108,7 +108,7 @@
             "archived": false,
             "id": 68312233,
             "language": "CMake",
-            "last_commit": "2026-08-24T18:50:42Z",
+            "last_commit": "2026-08-25T01:20:49Z",
             "owner": "microsoft",
             "repo": "vcpkg",
             "stars": 27391
@@ -126,7 +126,7 @@
             "last_commit": "2026-07-25T20:55:58Z",
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13160
+            "stars": 13161
           }
         },
         {
@@ -939,7 +939,7 @@
             "last_commit": "2023-02-24T19:49:07Z",
             "owner": "a9183756-gh",
             "repo": "Arduino-CMake-Toolchain",
-            "stars": 150
+            "stars": 149
           }
         },
         {
@@ -1050,7 +1050,7 @@
             "last_commit": "2024-04-26T09:25:43Z",
             "owner": "vector-of-bool",
             "repo": "pitchfork",
-            "stars": 1255
+            "stars": 1256
           }
         },
         {
@@ -1679,7 +1679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T19:39:30.864Z",
+    "last_updated": "2026-08-25T05:49:20.670Z",
     "original_repository": "onqtam/awesome-cmake",
     "original_repository_id": 67722380,
     "original_repository_sha": "40dfb5e378c52cba5710e8041a70c7bca91d883e",
