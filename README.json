@@ -108,10 +108,10 @@
             "archived": false,
             "id": 68312233,
             "language": "CMake",
-            "last_commit": "2026-08-25T01:20:49Z",
+            "last_commit": "2026-08-25T19:35:21Z",
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27391
+            "stars": 27395
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-07-25T20:55:58Z",
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13161
+            "stars": 13164
           }
         },
         {
@@ -138,7 +138,7 @@
             "archived": false,
             "id": 47190624,
             "language": "Python",
-            "last_commit": "2026-08-24T12:06:42Z",
+            "last_commit": "2026-08-25T10:45:10Z",
             "owner": "conan-io",
             "repo": "conan",
             "stars": 9493
@@ -1005,7 +1005,7 @@
             "last_commit": "2024-02-28T22:39:37Z",
             "owner": "ttroy50",
             "repo": "cmake-examples",
-            "stars": 13076
+            "stars": 13075
           }
         },
         {
@@ -1095,7 +1095,7 @@
             "last_commit": "2021-03-18T23:03:58Z",
             "owner": "pabloariasal",
             "repo": "modern-cmake-sample",
-            "stars": 674
+            "stars": 673
           }
         },
         {
@@ -1679,7 +1679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:49:20.670Z",
+    "last_updated": "2026-08-25T19:42:15.521Z",
     "original_repository": "onqtam/awesome-cmake",
     "original_repository_id": 67722380,
     "original_repository_sha": "40dfb5e378c52cba5710e8041a70c7bca91d883e",
