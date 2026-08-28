@@ -108,10 +108,10 @@
             "archived": false,
             "id": 68312233,
             "language": "CMake",
-            "last_commit": "2026-08-26T19:17:53Z",
+            "last_commit": "2026-08-28T01:58:10Z",
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27403
+            "stars": 27402
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-07-25T20:55:58Z",
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13171
+            "stars": 13172
           }
         },
         {
@@ -309,7 +309,7 @@
             "archived": false,
             "id": 42733731,
             "language": "CMake",
-            "last_commit": "2026-08-26T17:25:08Z",
+            "last_commit": "2026-08-27T21:46:55Z",
             "owner": "KDE",
             "repo": "extra-cmake-modules",
             "stars": 154
@@ -1020,7 +1020,7 @@
             "last_commit": "2026-05-30T18:52:20Z",
             "owner": "TheLartians",
             "repo": "ModernCppStarter",
-            "stars": 5391
+            "stars": 5392
           }
         },
         {
@@ -1050,7 +1050,7 @@
             "last_commit": "2024-04-26T09:25:43Z",
             "owner": "vector-of-bool",
             "repo": "pitchfork",
-            "stars": 1259
+            "stars": 1258
           }
         },
         {
@@ -1593,7 +1593,7 @@
             "archived": false,
             "id": 774482172,
             "language": "CMake",
-            "last_commit": "2026-08-27T08:05:15Z",
+            "last_commit": "2026-08-27T13:47:30Z",
             "owner": "HEP-SoC",
             "repo": "SoCMake",
             "stars": 44
@@ -1679,7 +1679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:31:43.602Z",
+    "last_updated": "2026-08-28T03:33:21.154Z",
     "original_repository_info": {
       "archived": false,
       "id": 67722380,
