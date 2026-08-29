@@ -10,12 +10,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":whale2: The Hitchhiker’s Guide to the CMake",
+            "homepage": "https://cgold.readthedocs.io",
             "id": 47987094,
             "language": null,
+            "license": "BSD-2-Clause",
             "last_commit": "2023-06-05T07:18:21Z",
+            "open_issues": 25,
             "owner": "ruslo",
             "repo": "CGold",
-            "stars": 535
+            "stars": 535,
+            "topics": [
+              "cmake",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -26,12 +34,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Samples for Learning Modern CMake",
+            "homepage": null,
             "id": 66274989,
             "language": "CMake",
+            "license": "MIT",
             "last_commit": "2016-08-31T03:57:29Z",
+            "open_issues": 2,
             "owner": "toeb",
             "repo": "moderncmake",
-            "stars": 245
+            "stars": 245,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -42,12 +55,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Contains the slides and examples for my \"More Modern CMake\" and \"Oh No! More Modern CMake\" talks from \"Meeting C++\" 2018 and 2019",
+            "homepage": null,
             "id": 157400748,
             "language": "CMake",
+            "license": "MIT",
             "last_commit": "2020-02-11T14:32:23Z",
+            "open_issues": 0,
             "owner": "DenizThatMenace",
             "repo": "More-Modern-CMake",
-            "stars": 171
+            "stars": 171,
+            "topics": [
+              "cmake",
+              "modern-cmake",
+              "slides"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -58,12 +80,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Contains the slides and examples for my \"More Modern CMake\" and \"Oh No! More Modern CMake\" talks from \"Meeting C++\" 2018 and 2019",
+            "homepage": null,
             "id": 157400748,
             "language": "CMake",
+            "license": "MIT",
             "last_commit": "2020-02-11T14:32:23Z",
+            "open_issues": 0,
             "owner": "DenizThatMenace",
             "repo": "More-Modern-CMake",
-            "stars": 171
+            "stars": 171,
+            "topics": [
+              "cmake",
+              "modern-cmake",
+              "slides"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -74,12 +105,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Material used for teaching.",
+            "homepage": null,
             "id": 80832025,
             "language": "C++",
+            "license": null,
             "last_commit": "2022-01-15T15:08:52Z",
+            "open_issues": 6,
             "owner": "Wigner-GPU-Lab",
             "repo": "Teaching",
-            "stars": 61
+            "stars": 61,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -90,12 +126,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tutorial about doing CMake Right",
+            "homepage": null,
             "id": 246877054,
             "language": "CMake",
+            "license": null,
             "last_commit": "2020-03-12T16:10:57Z",
+            "open_issues": 0,
             "owner": "schweitzer",
             "repo": "modern-cmake-tutorial",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "cmake",
+              "cmake-basis",
+              "cmake-modules"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         }
@@ -112,12 +157,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "C++ Library Manager for Windows, Linux, and MacOS",
+            "homepage": null,
             "id": 68312233,
             "language": "CMake",
+            "license": "MIT",
             "last_commit": "2026-08-28T21:19:13Z",
+            "open_issues": 1216,
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27404
+            "stars": 27404,
+            "topics": [
+              "c",
+              "cmake",
+              "cplusplus",
+              "cpp",
+              "libraries",
+              "package-manager",
+              "packages",
+              "vcpkg",
+              "visual-studio",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -128,12 +189,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a small build system with a focus on speed",
+            "homepage": "https://ninja-build.org/",
             "id": 1335132,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-25T20:55:58Z",
+            "open_issues": 418,
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13173
+            "stars": 13173,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -144,12 +210,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Conan - The open-source C and C++ package manager",
+            "homepage": "https://conan.io",
             "id": 47190624,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T08:49:23Z",
+            "open_issues": 479,
             "owner": "conan-io",
             "repo": "conan",
-            "stars": 9494
+            "stars": 9494,
+            "topics": [
+              "c",
+              "cmake",
+              "conan",
+              "cplusplus",
+              "cpp",
+              "multi-platform",
+              "package-manager"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -160,12 +239,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.",
+            "homepage": null,
             "id": 180373079,
             "language": "CMake",
+            "license": "MIT",
             "last_commit": "2026-07-06T12:22:10Z",
+            "open_issues": 167,
             "owner": "cpm-cmake",
             "repo": "CPM.cmake",
-            "stars": 4106
+            "stars": 4107,
+            "topics": [
+              "builds",
+              "c",
+              "c-plus-plus",
+              "cmake",
+              "cpp",
+              "cross-platform",
+              "dependencies",
+              "dependency",
+              "dependency-manager",
+              "git",
+              "package-manager",
+              "reproducible",
+              "reproducible-builds",
+              "svn",
+              "update",
+              "version-manager",
+              "versions"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -176,12 +278,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 14202056,
             "language": "CMake",
+            "license": "BSD-2-Clause",
             "last_commit": "2019-12-26T05:31:00Z",
+            "open_issues": 180,
             "owner": "ruslo",
             "repo": "hunter",
-            "stars": 1889
+            "stars": 1889,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -192,12 +299,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "C++ Package Manager",
+            "homepage": "http://cpm.rocks",
             "id": 12834577,
             "language": "CMake",
+            "license": "MIT",
             "last_commit": "2021-08-28T15:17:32Z",
+            "open_issues": 14,
             "owner": "iauns",
             "repo": "cpm",
-            "stars": 751
+            "stars": 751,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -208,12 +320,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High-level build system for distributed, multi-platform C/C++ projects.",
+            "homepage": null,
             "id": 27764892,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-26T18:34:50Z",
+            "open_issues": 58,
             "owner": "floooh",
             "repo": "fips",
-            "stars": 506
+            "stars": 506,
+            "topics": [
+              "fips"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -224,12 +343,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "C++ package retrieval",
+            "homepage": "http://cget.readthedocs.io",
             "id": 52641298,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-14T22:59:42Z",
+            "open_issues": 51,
             "owner": "pfultz2",
             "repo": "cget",
-            "stars": 464
+            "stars": 464,
+            "topics": [
+              "c",
+              "cget",
+              "cmake",
+              "cmake-packages",
+              "cplusplus",
+              "cpp",
+              "crossplatform",
+              "dependency-manager",
+              "linux",
+              "osx",
+              "package-manager",
+              "pkgconfig",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -240,12 +378,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":package: :mailbox_with_no_mail: It's the C++ Package Manager Manager",
+            "homepage": "https://anotherfoxguy.com/pmm/",
             "id": 163286148,
             "language": "CMake",
+            "license": "MIT",
             "last_commit": "2021-02-15T15:49:42Z",
+            "open_issues": 6,
             "owner": "AnotherFoxGuy",
             "repo": "pmm",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "c",
+              "c-plus-plus",
+              "cmake",
+              "cpp",
+              "dependency-manager",
+              "package-management",
+              "package-manager"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -256,12 +407,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Configuration-time dependency management for CMake.",
+            "homepage": null,
             "id": 739917709,
             "language": "CMake",
+            "license": "MIT",
             "last_commit": "2026-05-04T03:26:00Z",
+            "open_issues": 0,
             "owner": "jpetrie",
             "repo": "fetch-dependency",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "cmake"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         }
@@ -278,12 +436,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My collection of CMake modules",
+            "homepage": "http://academic.cleardefinition.com",
             "id": 987281,
             "language": "CMake",
+            "license": "BSL-1.0",
             "last_commit": "2025-02-10T19:46:56Z",
+            "open_issues": 19,
             "owner": "rpavlik",
             "repo": "cmake-modules",
-            "stars": 1071
+            "stars": 1071,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -294,12 +457,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Additional CMake functionality. Most of the modules are from Rylie Pavlik (https://github.com/rpavlik/cmake-modules)",
+            "homepage": null,
             "id": 2342436,
             "language": "CMake",
+            "license": "BSL-1.0",
             "last_commit": "2026-03-25T14:17:20Z",
+            "open_issues": 31,
             "owner": "bilke",
             "repo": "cmake-modules",
-            "stars": 591
+            "stars": 591,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -310,12 +478,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple framework for compile-time benchmarks",
+            "homepage": "metaben.ch",
             "id": 52907839,
             "language": "CMake",
+            "license": "NOASSERTION",
             "last_commit": "2021-05-01T15:47:22Z",
+            "open_issues": 12,
             "owner": "ldionne",
             "repo": "metabench",
-            "stars": 189
+            "stars": 189,
+            "topics": [
+              "benchmark",
+              "cmake",
+              "cpp",
+              "metaprogramming"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -326,12 +504,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extra modules and scripts for CMake.",
+            "homepage": "https://invent.kde.org/frameworks/extra-cmake-modules",
             "id": 42733731,
             "language": "CMake",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T21:46:55Z",
+            "open_issues": 0,
             "owner": "KDE",
             "repo": "extra-cmake-modules",
-            "stars": 154
+            "stars": 154,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -342,12 +525,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Common CMake modules",
+            "homepage": null,
             "id": 3774178,
             "language": "CMake",
+            "license": "NOASSERTION",
             "last_commit": "2023-12-05T09:07:13Z",
+            "open_issues": 13,
             "owner": "Eyescale",
             "repo": "CMake",
-            "stars": 153
+            "stars": 153,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -358,12 +546,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CMake modules for common applications related to computer graphics",
+            "homepage": null,
             "id": 29118239,
             "language": "CMake",
+            "license": "MIT",
             "last_commit": "2021-06-08T04:09:23Z",
+            "open_issues": 1,
             "owner": "chadmv",
             "repo": "cgcmake",
-            "stars": 133
+            "stars": 133,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -374,12 +567,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CMake find module for Intel Threading Building Blocks",
+            "homepage": null,
             "id": 30376369,
             "language": "CMake",
+            "license": "MIT",
             "last_commit": "2018-03-22T17:21:11Z",
+            "open_issues": 8,
             "owner": "justusc",
             "repo": "FindTBB",
-            "stars": 89
+            "stars": 89,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -390,12 +588,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CMake modules for some scientific libraries",
+            "homepage": null,
             "id": 71563,
             "language": "CMake",
+            "license": "BSD-2-Clause",
             "last_commit": "2020-10-21T22:09:18Z",
+            "open_issues": 11,
             "owner": "jedbrown",
             "repo": "cmake-modules",
-            "stars": 87
+            "stars": 87,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -406,12 +609,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CMake module for Mathematica.",
+            "homepage": null,
             "id": 1140235,
             "language": "CMake",
+            "license": "MIT",
             "last_commit": "2025-08-08T13:13:32Z",
+            "open_issues": 2,
             "owner": "sakra",
             "repo": "FindMathematica",
-            "stars": 65
+            "stars": 65,
+            "topics": [
+              "cmake",
+              "librarylink",
+              "mathematica",
+              "mathlink"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -422,12 +635,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "YCM (YCM CMake modules) is a collection of various useful CMake modules. ",
+            "homepage": "http://robotology.github.io/ycm-cmake-modules",
             "id": 13105609,
             "language": "CMake",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-24T08:34:38Z",
+            "open_issues": 50,
             "owner": "robotology",
             "repo": "ycm-cmake-modules",
-            "stars": 63
+            "stars": 63,
+            "topics": [
+              "build-system",
+              "build-tool",
+              "cmake",
+              "cmake-modules",
+              "cmake-resources",
+              "robotics",
+              "superbuild",
+              "yarp"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -438,12 +665,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CMake] [BSD-2] CMake module to find ICU",
+            "homepage": null,
             "id": 1942505,
             "language": "C",
+            "license": "BSD-2-Clause",
             "last_commit": "2017-01-07T16:39:41Z",
+            "open_issues": 3,
             "owner": "julp",
             "repo": "FindICU.cmake",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "cmake",
+              "icu"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -454,12 +689,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CMake module collection",
+            "homepage": null,
             "id": 7725525,
             "language": "CMake",
+            "license": "MIT",
             "last_commit": "2015-04-19T09:19:16Z",
+            "open_issues": 0,
             "owner": "hanjianwei",
             "repo": "cmake-modules",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "cmake"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -470,12 +712,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CMake module for building IDL files with MIDL and generating CLR DLL using Tlbimp",
+            "homepage": null,
             "id": 144862518,
             "language": "CMake",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-30T11:52:23Z",
+            "open_issues": 3,
             "owner": "apriorit",
             "repo": "FindIDL",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "cmake",
+              "cmake-module",
+              "com-interop",
+              "com-object",
+              "idl",
+              "tlb",
+              "tlbimp"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -486,12 +741,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CMake module for building Windows Installer packages with WiX toolset",
+            "homepage": null,
             "id": 135570673,
             "language": "CMake",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-10-31T22:10:16Z",
+            "open_issues": 0,
             "owner": "apriorit",
             "repo": "FindWiX",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "cmake",
+              "cmake-module",
+              "installer",
+              "wix",
+              "wix-toolset"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -502,12 +768,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":package: CMake Community Modules",
+            "homepage": null,
             "id": 163581896,
             "language": "CMake",
+            "license": null,
             "last_commit": "2022-05-18T12:29:19Z",
+            "open_issues": 2,
             "owner": "AnotherFoxGuy",
             "repo": "CMakeCM",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "cmake",
+              "cmake-modules"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         }
@@ -524,12 +798,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "CMake module to speed up builds.",
+            "homepage": null,
             "id": 3687959,
             "language": "CMake",
+            "license": "MIT",
             "last_commit": "2019-12-23T15:00:32Z",
+            "open_issues": 70,
             "owner": "sakra",
             "repo": "cotire",
-            "stars": 1297
+            "stars": 1297,
+            "topics": [
+              "cmake"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -540,12 +821,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Enhancement Suite for the CMake Build System",
+            "homepage": null,
             "id": 16892201,
             "language": "CMake",
+            "license": "NOASSERTION",
             "last_commit": "2021-12-27T23:51:26Z",
+            "open_issues": 40,
             "owner": "toeb",
             "repo": "cmakepp",
-            "stars": 448
+            "stars": 448,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -556,12 +842,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This repository is no longer maintained. Use the FetchContent module available in CMake 3.11 or later instead.",
+            "homepage": "https://cmake.org/cmake/help/latest/module/FetchContent.html",
             "id": 47436389,
             "language": "CMake",
+            "license": "MIT",
             "last_commit": "2023-10-07T04:17:36Z",
+            "open_issues": 0,
             "owner": "Crascit",
             "repo": "DownloadProject",
-            "stars": 444
+            "stars": 444,
+            "topics": [
+              "cmake"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -572,12 +865,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CMake modules to help use sanitizers",
+            "homepage": null,
             "id": 13357546,
             "language": "CMake",
+            "license": "NOASSERTION",
             "last_commit": "2025-11-04T04:20:15Z",
+            "open_issues": 12,
             "owner": "arsenm",
             "repo": "sanitizers-cmake",
-            "stars": 412
+            "stars": 412,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -588,12 +886,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Useful cmake macros that help with: compiler/linker flags, collecting sources, PCHs, Unity builds and other stuff.",
+            "homepage": null,
             "id": 37800164,
             "language": "CMake",
+            "license": "MIT",
             "last_commit": "2023-03-13T21:49:21Z",
+            "open_issues": 4,
             "owner": "onqtam",
             "repo": "ucm",
-            "stars": 214
+            "stars": 214,
+            "topics": [
+              "cmake",
+              "compiler-flags",
+              "linker-flags",
+              "precompiled-headers",
+              "unity-build"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -604,12 +913,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Visual Studio and GCC precompiled header macro for CMake",
+            "homepage": null,
             "id": 24126332,
             "language": "CMake",
+            "license": null,
             "last_commit": "2019-11-01T19:32:38Z",
+            "open_issues": 19,
             "owner": "larsch",
             "repo": "cmake-precompiled-header",
-            "stars": 162
+            "stars": 162,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -620,12 +934,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Make CMake less painful when trying to write Modern Flexible CMake (legacy)",
+            "homepage": "https://ixm.one",
             "id": 152735080,
             "language": "CMake",
+            "license": "MIT",
             "last_commit": "2022-09-01T06:03:44Z",
+            "open_issues": 0,
             "owner": "ixm-one",
             "repo": "legacy",
-            "stars": 103
+            "stars": 103,
+            "topics": [
+              "build-system",
+              "cmake",
+              "cmake-modules",
+              "cmake-scripts"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -636,12 +960,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CMake precompiled header support via custom PCH compiler extension",
+            "homepage": null,
             "id": 29347926,
             "language": "CMake",
+            "license": "MIT",
             "last_commit": "2019-10-26T09:35:06Z",
+            "open_issues": 9,
             "owner": "nanoant",
             "repo": "CMakePCHCompiler",
-            "stars": 102
+            "stars": 102,
+            "topics": [
+              "clang",
+              "cmake",
+              "cmake-precompiled-headers",
+              "gcc",
+              "precompiled-headers"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -652,12 +987,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 13699588,
             "language": "CMake",
+            "license": "BSD-2-Clause",
             "last_commit": "2020-02-16T22:35:29Z",
+            "open_issues": 7,
             "owner": "ruslo",
             "repo": "sugar",
-            "stars": 99
+            "stars": 99,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -668,12 +1008,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CMake module for code coverage",
+            "homepage": null,
             "id": 37468801,
             "language": "CMake",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-04-03T07:54:08Z",
+            "open_issues": 6,
             "owner": "RWTH-HPC",
             "repo": "CMake-codecov",
-            "stars": 98
+            "stars": 98,
+            "topics": [
+              "cmake",
+              "code-coverage",
+              "codecov",
+              "gcov",
+              "lcov"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -684,12 +1035,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Coveralls JSON coverage generator and uploader for CMake",
+            "homepage": null,
             "id": 28113573,
             "language": "CMake",
+            "license": "MIT",
             "last_commit": "2020-02-26T19:57:01Z",
+            "open_issues": 7,
             "owner": "JoakimSoderberg",
             "repo": "coveralls-cmake",
-            "stars": 87
+            "stars": 87,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -700,12 +1056,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "unmaintained - CMake module to activate certain C++ standard, feature checks and appropriate automated workarounds - basically an improved version of cmake-compile-features",
+            "homepage": null,
             "id": 40319034,
             "language": "CMake",
+            "license": "Zlib",
             "last_commit": "2017-02-21T09:49:16Z",
+            "open_issues": 1,
             "owner": "foonathan",
             "repo": "compatibility",
-            "stars": 75
+            "stars": 75,
+            "topics": [
+              "cmake",
+              "feature-checks"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -716,12 +1080,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Get dependencies with cmake",
+            "homepage": null,
             "id": 86213564,
             "language": "CMake",
+            "license": null,
             "last_commit": "2019-01-18T23:37:40Z",
+            "open_issues": 3,
             "owner": "pfultz2",
             "repo": "cmake-get",
-            "stars": 63
+            "stars": 63,
+            "topics": [
+              "c",
+              "cget",
+              "cmake",
+              "cmake-modules",
+              "cmake-packages",
+              "cplusplus",
+              "cpp",
+              "cross-platform",
+              "dependency-manager",
+              "linux",
+              "osx",
+              "package-manager",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -732,12 +1115,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LibFindMacros development repository and other cool CMake stuff",
+            "homepage": null,
             "id": 20317958,
             "language": "CMake",
+            "license": null,
             "last_commit": "2022-11-04T12:41:07Z",
+            "open_issues": 1,
             "owner": "Tronic",
             "repo": "cmake-modules",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -748,12 +1136,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bunch of CMake pain in the baker",
+            "homepage": null,
             "id": 12113291,
             "language": "CMake",
+            "license": "MIT",
             "last_commit": "2023-06-07T13:35:03Z",
+            "open_issues": 16,
             "owner": "UCL",
             "repo": "GreatCMakeCookOff",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "cmake",
+              "cmake-modules",
+              "cmake-scripts"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -764,12 +1161,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A unit testing framework for CMake",
+            "homepage": null,
             "id": 16282541,
             "language": "CMake",
+            "license": "MIT",
             "last_commit": "2017-05-31T05:28:33Z",
+            "open_issues": 4,
             "owner": "polysquare",
             "repo": "cmake-unit",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -780,12 +1182,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "CMake and other scripts to help build process of FlyEM software",
+            "homepage": null,
             "id": 6127602,
             "language": "CMake",
+            "license": "NOASSERTION",
             "last_commit": "2022-06-09T12:24:05Z",
+            "open_issues": 6,
             "owner": "janelia-flyem",
             "repo": "buildem",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -796,12 +1203,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Per-target CPPCheck for CMake",
+            "homepage": null,
             "id": 14675361,
             "language": "CMake",
+            "license": "MIT",
             "last_commit": "2016-05-30T13:38:24Z",
+            "open_issues": 0,
             "owner": "polysquare",
             "repo": "cppcheck-target-cmake",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -812,12 +1224,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Add clang-tidy checks to a target using CMake",
+            "homepage": null,
             "id": 24407190,
             "language": "CMake",
+            "license": "MIT",
             "last_commit": "2016-05-31T00:47:53Z",
+            "open_issues": 0,
             "owner": "polysquare",
             "repo": "clang-tidy-target-cmake",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -828,12 +1245,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CMake integration for include-what-you-use",
+            "homepage": null,
             "id": 24561616,
             "language": "CMake",
+            "license": "MIT",
             "last_commit": "2016-05-30T14:17:45Z",
+            "open_issues": 0,
             "owner": "polysquare",
             "repo": "iwyu-target-cmake",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -844,12 +1266,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CMake macro to determine the language of a header file",
+            "homepage": null,
             "id": 23377199,
             "language": "CMake",
+            "license": "MIT",
             "last_commit": "2016-05-26T04:47:09Z",
+            "open_issues": 0,
             "owner": "polysquare",
             "repo": "cmake-header-language",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -860,12 +1287,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Utility and common library for all polysquare cmake tools.",
+            "homepage": null,
             "id": 24671941,
             "language": "CMake",
+            "license": "MIT",
             "last_commit": "2016-05-30T13:30:41Z",
+            "open_issues": 0,
             "owner": "polysquare",
             "repo": "tooling-cmake-util",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -876,12 +1308,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "fetch_paths() is a smart CMake function that quickly retrieves files or directories using powerful regex filtering and flexible search modes to streamline your build process.",
+            "homepage": null,
             "id": 749176884,
             "language": "CMake",
+            "license": "MIT",
             "last_commit": "2025-04-11T13:02:07Z",
+            "open_issues": 0,
             "owner": "XiaoLey",
             "repo": "fetch_paths.cmake",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "cmake",
+              "cmake-examples",
+              "cmake-scripts",
+              "cpp"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         }
@@ -898,12 +1340,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross compiling toolchains in Docker images",
+            "homepage": "https://hub.docker.com/u/dockcross",
             "id": 35052287,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-07-30T18:22:23Z",
+            "open_issues": 9,
             "owner": "dockcross",
             "repo": "dockcross",
-            "stars": 3607
+            "stars": 3607,
+            "topics": [
+              "c",
+              "c-plus-plus",
+              "cmake",
+              "cmake-toolchains",
+              "cpp",
+              "cross-compiler",
+              "cross-compiler-toolchain",
+              "cross-platform",
+              "crossplatform",
+              "crosstool-ng",
+              "debian",
+              "dockbuild",
+              "dockcross",
+              "docker",
+              "dockerized",
+              "fortran",
+              "ninja-build",
+              "toolchains"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -914,12 +1380,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CMake toolchain file and other scripts for the Android NDK",
+            "homepage": null,
             "id": 6751113,
             "language": "CMake",
+            "license": null,
             "last_commit": "2018-02-16T04:32:27Z",
+            "open_issues": 45,
             "owner": "taka-no-me",
             "repo": "android-cmake",
-            "stars": 1228
+            "stars": 1228,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -930,12 +1401,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": " :wrench: Collection of CMake toolchain files and scripts for cross-platform build and CI testing (GCC, Visual Studio, iOS, Android, Clang analyzer, sanitizers etc.)",
+            "homepage": null,
             "id": 14066763,
             "language": "CMake",
+            "license": "BSD-2-Clause",
             "last_commit": "2021-05-16T19:56:08Z",
+            "open_issues": 20,
             "owner": "ruslo",
             "repo": "polly",
-            "stars": 869
+            "stars": 869,
+            "topics": [
+              "appveyor",
+              "cmake",
+              "cmake-toolchain",
+              "travis-ci"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -946,12 +1427,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A toolchain file and examples using cmake for iOS development (this is a fork of a similar project found on code.google.com)",
+            "homepage": null,
             "id": 15473490,
             "language": "CMake",
+            "license": "BSD-3-Clause",
             "last_commit": "2020-09-02T07:20:42Z",
+            "open_issues": 1,
             "owner": "cristeab",
             "repo": "ios-cmake",
-            "stars": 317
+            "stars": 317,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -962,12 +1448,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple CMake utility for building and deploying Qt based applications on Android without QtCreator",
+            "homepage": null,
             "id": 30702319,
             "language": "CMake",
+            "license": "NOASSERTION",
             "last_commit": "2022-05-09T05:42:10Z",
+            "open_issues": 4,
             "owner": "LaurentGomila",
             "repo": "qt-android-cmake",
-            "stars": 250
+            "stars": 250,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -978,12 +1469,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "cmake toolchain for AVR",
+            "homepage": null,
             "id": 15548568,
             "language": "CMake",
+            "license": "NOASSERTION",
             "last_commit": "2022-04-17T02:20:50Z",
+            "open_issues": 9,
             "owner": "mkleemann",
             "repo": "cmake-avr",
-            "stars": 185
+            "stars": 185,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -994,12 +1490,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CMake toolchain for all Arduino compatible boards",
+            "homepage": null,
             "id": 248545399,
             "language": "CMake",
+            "license": "MIT",
             "last_commit": "2023-02-24T19:49:07Z",
+            "open_issues": 24,
             "owner": "a9183756-gh",
             "repo": "Arduino-CMake-Toolchain",
-            "stars": 149
+            "stars": 149,
+            "topics": [
+              "arduino",
+              "arduino-cmake-toolchain",
+              "arduino-compilation",
+              "arduino-ide",
+              "arduino-toolchain",
+              "cmake",
+              "cmake-toolchain",
+              "make",
+              "toolchain"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -1010,12 +1521,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Toolchains for crosscompiling with CMake.",
+            "homepage": "https://magnum.graphics/",
             "id": 921572,
             "language": "CMake",
+            "license": "Unlicense",
             "last_commit": "2026-07-16T12:14:16Z",
+            "open_issues": 2,
             "owner": "mosra",
             "repo": "toolchains",
-            "stars": 97
+            "stars": 97,
+            "topics": [
+              "android",
+              "archlinux",
+              "cmake",
+              "emscripten",
+              "ios",
+              "magnum",
+              "mingw"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -1026,12 +1550,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Arduino CMake Build system",
+            "homepage": null,
             "id": 50066064,
             "language": "CMake",
+            "license": null,
             "last_commit": "2021-01-11T06:09:23Z",
+            "open_issues": 7,
             "owner": "francoiscampbell",
             "repo": "arduino-cmake",
-            "stars": 61
+            "stars": 61,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -1042,12 +1571,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CMake scripts for Staticlibs projects",
+            "homepage": null,
             "id": 36188453,
             "language": "CMake",
+            "license": "Apache-2.0",
             "last_commit": "2019-05-09T13:29:54Z",
+            "open_issues": 0,
             "owner": "staticlibs",
             "repo": "cmake",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         }
@@ -1064,12 +1598,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Useful CMake Examples",
+            "homepage": "http://ttroy50.github.io/cmake-examples",
             "id": 46611889,
             "language": "CMake",
+            "license": "MIT",
             "last_commit": "2024-02-28T22:39:37Z",
+            "open_issues": 30,
             "owner": "ttroy50",
             "repo": "cmake-examples",
-            "stars": 13075
+            "stars": 13075,
+            "topics": [
+              "boost",
+              "catch",
+              "clang",
+              "clang-format",
+              "cmake",
+              "cpack",
+              "cpp",
+              "cppcheck",
+              "ctest",
+              "google-test",
+              "static-analysis",
+              "tutorial",
+              "unit-testing"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -1080,12 +1633,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and much more.",
+            "homepage": "https://thelartians.github.io/ModernCppStarter",
             "id": 254842585,
             "language": "CMake",
+            "license": "Unlicense",
             "last_commit": "2026-05-30T18:52:20Z",
+            "open_issues": 25,
             "owner": "TheLartians",
             "repo": "ModernCppStarter",
-            "stars": 5392
+            "stars": 5392,
+            "topics": [
+              "bootstrap",
+              "c",
+              "ccache",
+              "ci",
+              "clang-format",
+              "cmake",
+              "cmakelists",
+              "codecov",
+              "continuous-integration",
+              "coverage",
+              "cpp",
+              "dependency-manager",
+              "free",
+              "github-workflows",
+              "modern-cmake",
+              "modern-cmake-template",
+              "open-source",
+              "sanitizers",
+              "starter",
+              "template"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -1096,12 +1675,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CMake Cookbook recipes.",
+            "homepage": null,
             "id": 100197636,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2021-06-01T21:39:14Z",
+            "open_issues": 28,
             "owner": "dev-cafe",
             "repo": "cmake-cookbook",
-            "stars": 2848
+            "stars": 2848,
+            "topics": [
+              "c",
+              "cmake",
+              "cmake-examples",
+              "cmake-recipes",
+              "cpp11",
+              "fortran"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -1112,12 +1703,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pitchfork is a Set of C++ Project Conventions",
+            "homepage": null,
             "id": 145937248,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2024-04-26T09:25:43Z",
+            "open_issues": 42,
             "owner": "vector-of-bool",
             "repo": "pitchfork",
-            "stars": 1258
+            "stars": 1258,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -1128,12 +1724,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of as simple as possible, modern CMake projects",
+            "homepage": null,
             "id": 174715721,
             "language": "CMake",
+            "license": "MIT",
             "last_commit": "2025-02-22T22:13:03Z",
+            "open_issues": 1,
             "owner": "pr0g",
             "repo": "cmake-examples",
-            "stars": 1237
+            "stars": 1237,
+            "topics": [
+              "cmake",
+              "cmake-examples",
+              "cmake-scripts",
+              "cmakelists"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -1144,12 +1750,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Template for reliable, cross-platform C++ project setup using cmake.",
+            "homepage": null,
             "id": 15971519,
             "language": "CMake",
+            "license": "MIT",
             "last_commit": "2026-08-04T15:57:00Z",
+            "open_issues": 24,
             "owner": "cginternals",
             "repo": "cmake-init",
-            "stars": 941
+            "stars": 941,
+            "topics": [
+              "c-plus-plus",
+              "c-plus-plus-11",
+              "cmake",
+              "template"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -1160,12 +1776,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Example library that shows best practices and proper usage of CMake by using targets",
+            "homepage": null,
             "id": 122105603,
             "language": "CMake",
+            "license": "MIT",
             "last_commit": "2021-03-18T23:03:58Z",
+            "open_issues": 6,
             "owner": "pabloariasal",
             "repo": "modern-cmake-sample",
-            "stars": 673
+            "stars": 673,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -1176,12 +1797,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Boiler plate template for C++ projects, with CMake, Doctest, Travis CI, Appveyor, Github Actions and coverage reports.",
+            "homepage": null,
             "id": 52855744,
             "language": "CMake",
+            "license": "Unlicense",
             "last_commit": "2023-09-19T12:15:35Z",
+            "open_issues": 2,
             "owner": "bsamseth",
             "repo": "cpp-project",
-            "stars": 626
+            "stars": 626,
+            "topics": [
+              "actions",
+              "boilerplate",
+              "cmake",
+              "code-coverage",
+              "code-review",
+              "codecov",
+              "coveralls",
+              "cpp",
+              "cpp-17",
+              "doctest",
+              "folder-structure",
+              "github-actions",
+              "project-template",
+              "template-project",
+              "travis-ci"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -1192,12 +1834,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CMake: config mode of find_package command (examples)",
+            "homepage": null,
             "id": 15777567,
             "language": "CMake",
+            "license": null,
             "last_commit": "2021-06-30T11:48:05Z",
+            "open_issues": 0,
             "owner": "forexample",
             "repo": "package-example",
-            "stars": 406
+            "stars": 406,
+            "topics": [
+              "cmake",
+              "example"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -1208,12 +1858,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An OS-agnostic C++ library template in plain CMake.",
+            "homepage": null,
             "id": 24837748,
             "language": "CMake",
+            "license": "MIT",
             "last_commit": "2021-01-13T16:07:10Z",
+            "open_issues": 12,
             "owner": "robotology",
             "repo": "how-to-export-cpp-library",
-            "stars": 375
+            "stars": 375,
+            "topics": [
+              "cmake",
+              "cmake-examples",
+              "cmake-template"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -1224,12 +1883,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A small c++ template with modern CMake",
+            "homepage": null,
             "id": 72276083,
             "language": "CMake",
+            "license": "MIT",
             "last_commit": "2025-08-06T14:03:12Z",
+            "open_issues": 1,
             "owner": "Lectem",
             "repo": "cpp-boilerplate",
-            "stars": 331
+            "stars": 331,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -1240,12 +1904,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A minimal CMake template for Qt 5 & 6 projects",
+            "homepage": null,
             "id": 8625646,
             "language": "CMake",
+            "license": "Unlicense",
             "last_commit": "2025-08-05T21:33:47Z",
+            "open_issues": 1,
             "owner": "euler0",
             "repo": "mini-cmake-qt",
-            "stars": 221
+            "stars": 221,
+            "topics": [
+              "cmake",
+              "qt",
+              "qt5",
+              "qt6"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -1256,12 +1930,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "this tries to be a minimal cmake example, that covers sources resources dependencies and packaging.",
+            "homepage": null,
             "id": 44135374,
             "language": "CMake",
+            "license": "CC0-1.0",
             "last_commit": "2019-01-17T15:23:32Z",
+            "open_issues": 2,
             "owner": "krux02",
             "repo": "minimal_cmake_example",
-            "stars": 211
+            "stars": 211,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -1272,12 +1951,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Example project which demonstrates various CMake features.",
+            "homepage": null,
             "id": 27336855,
             "language": "CMake",
+            "license": "BSD-3-Clause",
             "last_commit": "2021-02-04T18:28:58Z",
+            "open_issues": 1,
             "owner": "bast",
             "repo": "cmake-example",
-            "stars": 145
+            "stars": 145,
+            "topics": [
+              "cmake"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -1288,12 +1974,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Concise CMake 3.31+ templates for C++ executables and libraries.",
+            "homepage": null,
             "id": 87725664,
             "language": "CMake",
+            "license": null,
             "last_commit": "2026-08-01T20:59:53Z",
+            "open_issues": 1,
             "owner": "acdemiralp",
             "repo": "cmake_templates",
-            "stars": 131
+            "stars": 131,
+            "topics": [
+              "cmake",
+              "template"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -1304,12 +1998,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple, cross-platform, and continuously integrated C++14 project template",
+            "homepage": null,
             "id": 124443122,
             "language": "CMake",
+            "license": "CC0-1.0",
             "last_commit": "2018-09-12T14:43:56Z",
+            "open_issues": 2,
             "owner": "arnavb",
             "repo": "cpp14-project-template",
-            "stars": 68
+            "stars": 68,
+            "topics": [
+              "appveyor",
+              "cmake",
+              "codacy",
+              "code-coverage",
+              "codecov",
+              "codedocs",
+              "continuous-integration",
+              "coverity-scan",
+              "cpp",
+              "cpp14",
+              "doctest",
+              "documentation",
+              "doxygen",
+              "project-template",
+              "travis-ci"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -1320,12 +2035,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A template C++ repository, using CMake and Catch",
+            "homepage": null,
             "id": 146879265,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-05-30T22:55:30Z",
+            "open_issues": 0,
             "owner": "joshpeterson",
             "repo": "cpp-template",
-            "stars": 54
+            "stars": 54,
+            "topics": [
+              "catch2",
+              "cmake",
+              "cpp",
+              "cpp11"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -1336,12 +2061,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Short copy-pasteable CMake snippets ::: ${✂️}",
+            "homepage": "http://videocortex.io/cmake_snippets/",
             "id": 135988892,
             "language": null,
+            "license": "BSD-3-Clause",
             "last_commit": "2019-07-11T07:25:44Z",
+            "open_issues": 3,
             "owner": "adishavit",
             "repo": "cmake_snippets",
-            "stars": 52
+            "stars": 52,
+            "topics": [
+              "cmake",
+              "snippets"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -1352,12 +2085,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 21088478,
             "language": "CMake",
+            "license": null,
             "last_commit": "2019-02-20T13:22:17Z",
+            "open_issues": 1,
             "owner": "abandonware-pjz37",
             "repo": "hunter-simple",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -1368,12 +2106,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CMake BASIS makes it easy to create sharable software and libraries that work together. This is accomplished by combining and documenting some of the best practices and utilities available. This project supplies a fully integrated suite of functionality to make the whole process seamless!",
+            "homepage": "https://cmake-basis.github.io",
             "id": 56403590,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2021-07-07T13:48:09Z",
+            "open_issues": 130,
             "owner": "cmake-basis",
             "repo": "BASIS",
-            "stars": 49
+            "stars": 49,
+            "topics": [
+              "cmake",
+              "cmake-basis",
+              "project-creation",
+              "project-template"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -1384,12 +2132,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Installation example for a C++ project (Windows) with Cmake.",
+            "homepage": null,
             "id": 86520668,
             "language": "CMake",
+            "license": "MIT",
             "last_commit": "2021-09-07T12:17:40Z",
+            "open_issues": 0,
             "owner": "ptsouchlos",
             "repo": "CMakeInstallExample",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -1400,12 +2153,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 36683652,
             "language": "C++",
+            "license": "BSD-2-Clause",
             "last_commit": "2016-12-25T08:28:31Z",
+            "open_issues": 0,
             "owner": "abandonware-pjz37",
             "repo": "android-cmake",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -1416,12 +2174,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A feature-packed, ready-to-use CMake template with testing, static and dynamic checks, coverage reports, and a tutorial.",
+            "homepage": null,
             "id": 848524654,
             "language": "CMake",
+            "license": "MIT",
             "last_commit": "2026-07-05T05:06:47Z",
+            "open_issues": 0,
             "owner": "MhmRhm",
             "repo": "SeeMake",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         }
@@ -1438,12 +2201,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Improved build system generator for CPython C, C++, Cython and Fortran extensions",
+            "homepage": "https://scikit-build.readthedocs.io",
             "id": 21749516,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-17T18:29:51Z",
+            "open_issues": 1,
             "owner": "scikit-build",
             "repo": "scikit-build",
-            "stars": 533
+            "stars": 533,
+            "topics": [
+              "build-tool",
+              "c",
+              "c-extension",
+              "c-plus-plus",
+              "cmake",
+              "cpython",
+              "cython",
+              "fortran",
+              "kitware",
+              "packaging",
+              "python",
+              "scikit-build",
+              "wheels"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -1454,12 +2236,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CMake scripts for painless usage of SuiteSparse+METIS from Visual Studio and the rest of Windows/Linux/OSX IDEs supported by CMake",
+            "homepage": null,
             "id": 16236582,
             "language": "C",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-03-16T04:09:07Z",
+            "open_issues": 2,
             "owner": "jlblancoc",
             "repo": "suitesparse-metis-for-windows",
-            "stars": 467
+            "stars": 467,
+            "topics": [
+              "c-plus-plus",
+              "cmake",
+              "suitesparse"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -1470,12 +2261,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CMake LSP Implementation",
+            "homepage": null,
             "id": 221021896,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-02-11T02:50:57Z",
+            "open_issues": 24,
             "owner": "regen100",
             "repo": "cmake-language-server",
-            "stars": 407
+            "stars": 407,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -1486,12 +2282,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A CMake-based build system that is used to build all packages in ROS.",
+            "homepage": "http://wiki.ros.org/catkin",
             "id": 2729788,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-05-31T16:51:23Z",
+            "open_issues": 0,
             "owner": "ros",
             "repo": "catkin",
-            "stars": 340
+            "stars": 340,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -1502,12 +2303,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CMake scripts for building OpenSceneGraph third party libraries.",
+            "homepage": null,
             "id": 17402927,
             "language": "CMake",
+            "license": "Unlicense",
             "last_commit": "2023-01-12T08:45:45Z",
+            "open_issues": 10,
             "owner": "bjornblissing",
             "repo": "osg-3rdparty-cmake",
-            "stars": 200
+            "stars": 200,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -1518,12 +2324,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A program that automatically generates CMake and Meson configuration files for your Vala project",
+            "homepage": null,
             "id": 9108893,
             "language": "Vala",
+            "license": "GPL-3.0",
             "last_commit": "2018-08-06T14:45:44Z",
+            "open_issues": 4,
             "owner": "rastersoft",
             "repo": "autovala",
-            "stars": 105
+            "stars": 105,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -1534,12 +2345,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Check for coding style issues in CMake files",
+            "homepage": null,
             "id": 6603611,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2019-06-07T13:48:40Z",
+            "open_issues": 14,
             "owner": "richq",
             "repo": "cmake-lint",
-            "stars": 104
+            "stars": 104,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -1550,12 +2366,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CMake checks cache helper modules – for fast CI CMake builds!",
+            "homepage": null,
             "id": 96710664,
             "language": "CMake",
+            "license": "NOASSERTION",
             "last_commit": "2022-03-04T10:24:14Z",
+            "open_issues": 2,
             "owner": "cristianadam",
             "repo": "cmake-checks-cache",
-            "stars": 90
+            "stars": 90,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -1566,12 +2387,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Autotools-style configure script wrapper around CMake",
+            "homepage": null,
             "id": 32297983,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2017-06-08T02:15:33Z",
+            "open_issues": 1,
             "owner": "nemequ",
             "repo": "configure-cmake",
-            "stars": 88
+            "stars": 88,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -1582,12 +2408,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Project to enable using CMake from a Maven build.",
+            "homepage": null,
             "id": 45079516,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-24T14:27:12Z",
+            "open_issues": 0,
             "owner": "cmake-maven-plugin",
             "repo": "cmake-maven-plugin",
-            "stars": 83
+            "stars": 83,
+            "topics": [
+              "cmake",
+              "maven"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -1598,12 +2432,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "CMake-based build system for node.js native modules",
+            "homepage": null,
             "id": 44123310,
             "language": "CMake",
+            "license": "ISC",
             "last_commit": "2021-05-13T14:37:29Z",
+            "open_issues": 14,
             "owner": "cjntaylor",
             "repo": "node-cmake",
-            "stars": 77
+            "stars": 77,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -1614,12 +2453,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Enhanced CMake Project Manager plugin for Qt Creator",
+            "homepage": null,
             "id": 23128795,
             "language": "C++",
+            "license": null,
             "last_commit": "2025-03-10T03:15:54Z",
+            "open_issues": 4,
             "owner": "h4tr3d",
             "repo": "cmakeprojectmanager2",
-            "stars": 73
+            "stars": 73,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -1630,12 +2474,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "cmake for D2",
+            "homepage": null,
             "id": 13512659,
             "language": "CMake",
+            "license": "MIT",
             "last_commit": "2023-06-09T09:57:36Z",
+            "open_issues": 4,
             "owner": "dcarp",
             "repo": "cmake-d",
-            "stars": 67
+            "stars": 67,
+            "topics": [
+              "build-tool",
+              "cmake",
+              "d",
+              "dlang"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -1646,12 +2500,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Standardise code formating for cmake projects with git and clang-format",
+            "homepage": null,
             "id": 23444363,
             "language": "CMake",
+            "license": "Unlicense",
             "last_commit": "2017-10-24T20:48:53Z",
+            "open_issues": 2,
             "owner": "kbenzie",
             "repo": "git-cmake-format",
-            "stars": 61
+            "stars": 61,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -1662,12 +2521,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Emacs Font-lock rules for CMake",
+            "homepage": null,
             "id": 9248998,
             "language": "CMake",
+            "license": "GPL-3.0",
             "last_commit": "2024-04-18T13:22:49Z",
+            "open_issues": 6,
             "owner": "Lindydancer",
             "repo": "cmake-font-lock",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -1678,12 +2542,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CMake plugin composer.",
+            "homepage": "http://autocmake.org",
             "id": 36069881,
             "language": "CMake",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-04-13T16:58:55Z",
+            "open_issues": 39,
             "owner": "dev-cafe",
             "repo": "autocmake",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "cmake"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -1694,12 +2565,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CMake based hardware build system",
+            "homepage": "https://hep-soc.github.io/SoCMake/",
             "id": 774482172,
             "language": "CMake",
+            "license": "LGPL-3.0",
             "last_commit": "2026-08-27T13:47:30Z",
+            "open_issues": 22,
             "owner": "HEP-SoC",
             "repo": "SoCMake",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "asic",
+              "build-automation",
+              "build-system",
+              "cmake",
+              "fpga",
+              "integrated-circuits",
+              "system-on-chip",
+              "systemc",
+              "systemverilog",
+              "verilator",
+              "verilog",
+              "vhdl",
+              "vhdl-language"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -1710,12 +2600,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python module to reduce a cmake file to an AST",
+            "homepage": null,
             "id": 27058835,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-04-13T17:08:24Z",
+            "open_issues": 8,
             "owner": "polysquare",
             "repo": "cmake-ast",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -1726,12 +2621,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Static analysis for CMake files.",
+            "homepage": null,
             "id": 136742750,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2020-03-16T22:41:32Z",
+            "open_issues": 12,
             "owner": "DaelDe",
             "repo": "cmake_check",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "checker",
+              "cmake",
+              "coding-standards",
+              "continuous-integration",
+              "linter"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -1742,12 +2648,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast, correct CMake formatter — cmake-format, reimagined in Rust.",
+            "homepage": "https://cmakefmt.dev",
             "id": 1198922986,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T12:07:07Z",
+            "open_issues": 33,
             "owner": "cmakefmt",
             "repo": "cmakefmt",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -1758,12 +2669,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bake git information into your binary.",
+            "homepage": null,
             "id": 488620604,
             "language": "CMake",
+            "license": "MIT",
             "last_commit": "2022-05-04T16:50:29Z",
+            "open_issues": 0,
             "owner": "MhmRhm",
             "repo": "version-from-git",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -1774,12 +2690,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "cmake-xray is a build inspection tool for CMake projects that reveals include hotspots, dependency structures, and rebuild impact.",
+            "homepage": null,
             "id": 1217159688,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-06-12T08:33:04Z",
+            "open_issues": 0,
             "owner": "pt9912",
             "repo": "cmake-xray",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "analysis",
+              "cmake",
+              "ddd",
+              "diagnostics",
+              "hexagonal-architecture",
+              "solid"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         }
@@ -1788,15 +2716,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:07:56.155Z",
+    "last_updated": "2026-08-29T04:20:53.751Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome CMake resources, scripts, modules and examples.",
+      "homepage": null,
       "id": 67722380,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2026-08-13T12:16:11Z",
+      "open_issues": 4,
       "owner": "onqtam",
       "repo": "awesome-cmake",
-      "stars": 5419
+      "stars": 5419,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "cmake",
+        "cmake-examples",
+        "cmake-modules",
+        "cmake-resources",
+        "cmake-scripts",
+        "cmake-toolchains",
+        "list"
+      ]
     },
     "original_repository_sha": "40dfb5e378c52cba5710e8041a70c7bca91d883e",
     "enhanced_repository": "enhansome/enhansome-cmake",
