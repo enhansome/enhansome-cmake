@@ -16,7 +16,8 @@
             "owner": "ruslo",
             "repo": "CGold",
             "stars": 535
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "toeb",
             "repo": "moderncmake",
             "stars": 245
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "DenizThatMenace",
             "repo": "More-Modern-CMake",
             "stars": 171
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "DenizThatMenace",
             "repo": "More-Modern-CMake",
             "stars": 171
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "Wigner-GPU-Lab",
             "repo": "Teaching",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "schweitzer",
             "repo": "modern-cmake-tutorial",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         }
       ],
       "title": "Resources"
@@ -108,11 +114,12 @@
             "archived": false,
             "id": 68312233,
             "language": "CMake",
-            "last_commit": "2026-08-28T01:58:10Z",
+            "last_commit": "2026-08-28T21:19:13Z",
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27402
-          }
+            "stars": 27404
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -126,8 +133,9 @@
             "last_commit": "2026-07-25T20:55:58Z",
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13172
-          }
+            "stars": 13173
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "conan-io",
             "repo": "conan",
             "stars": 9494
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -156,8 +165,9 @@
             "last_commit": "2026-07-06T12:22:10Z",
             "owner": "cpm-cmake",
             "repo": "CPM.cmake",
-            "stars": 4105
-          }
+            "stars": 4106
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "ruslo",
             "repo": "hunter",
             "stars": 1889
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "iauns",
             "repo": "cpm",
             "stars": 751
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "floooh",
             "repo": "fips",
             "stars": 506
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "pfultz2",
             "repo": "cget",
             "stars": 464
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "AnotherFoxGuy",
             "repo": "pmm",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "jpetrie",
             "repo": "fetch-dependency",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         }
       ],
       "title": "Package Management / Build Systems"
@@ -268,7 +284,8 @@
             "owner": "rpavlik",
             "repo": "cmake-modules",
             "stars": 1071
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "bilke",
             "repo": "cmake-modules",
             "stars": 591
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "ldionne",
             "repo": "metabench",
             "stars": 189
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -313,7 +332,8 @@
             "owner": "KDE",
             "repo": "extra-cmake-modules",
             "stars": 154
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "Eyescale",
             "repo": "CMake",
             "stars": 153
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -343,7 +364,8 @@
             "owner": "chadmv",
             "repo": "cgcmake",
             "stars": 133
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -358,7 +380,8 @@
             "owner": "justusc",
             "repo": "FindTBB",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -373,7 +396,8 @@
             "owner": "jedbrown",
             "repo": "cmake-modules",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -388,7 +412,8 @@
             "owner": "sakra",
             "repo": "FindMathematica",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -403,7 +428,8 @@
             "owner": "robotology",
             "repo": "ycm-cmake-modules",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -418,7 +444,8 @@
             "owner": "julp",
             "repo": "FindICU.cmake",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -433,7 +460,8 @@
             "owner": "hanjianwei",
             "repo": "cmake-modules",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -448,7 +476,8 @@
             "owner": "apriorit",
             "repo": "FindIDL",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -463,7 +492,8 @@
             "owner": "apriorit",
             "repo": "FindWiX",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -478,7 +508,8 @@
             "owner": "AnotherFoxGuy",
             "repo": "CMakeCM",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         }
       ],
       "title": "Modules"
@@ -499,7 +530,8 @@
             "owner": "sakra",
             "repo": "cotire",
             "stars": 1297
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -514,7 +546,8 @@
             "owner": "toeb",
             "repo": "cmakepp",
             "stars": 448
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -529,7 +562,8 @@
             "owner": "Crascit",
             "repo": "DownloadProject",
             "stars": 444
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -544,7 +578,8 @@
             "owner": "arsenm",
             "repo": "sanitizers-cmake",
             "stars": 412
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -559,7 +594,8 @@
             "owner": "onqtam",
             "repo": "ucm",
             "stars": 214
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -574,7 +610,8 @@
             "owner": "larsch",
             "repo": "cmake-precompiled-header",
             "stars": 162
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -589,7 +626,8 @@
             "owner": "ixm-one",
             "repo": "legacy",
             "stars": 103
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -604,7 +642,8 @@
             "owner": "nanoant",
             "repo": "CMakePCHCompiler",
             "stars": 102
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -619,7 +658,8 @@
             "owner": "ruslo",
             "repo": "sugar",
             "stars": 99
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -634,7 +674,8 @@
             "owner": "RWTH-HPC",
             "repo": "CMake-codecov",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -649,7 +690,8 @@
             "owner": "JoakimSoderberg",
             "repo": "coveralls-cmake",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -664,7 +706,8 @@
             "owner": "foonathan",
             "repo": "compatibility",
             "stars": 75
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -679,7 +722,8 @@
             "owner": "pfultz2",
             "repo": "cmake-get",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -694,7 +738,8 @@
             "owner": "Tronic",
             "repo": "cmake-modules",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -709,7 +754,8 @@
             "owner": "UCL",
             "repo": "GreatCMakeCookOff",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -724,7 +770,8 @@
             "owner": "polysquare",
             "repo": "cmake-unit",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -739,7 +786,8 @@
             "owner": "janelia-flyem",
             "repo": "buildem",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -754,7 +802,8 @@
             "owner": "polysquare",
             "repo": "cppcheck-target-cmake",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -769,7 +818,8 @@
             "owner": "polysquare",
             "repo": "clang-tidy-target-cmake",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -784,7 +834,8 @@
             "owner": "polysquare",
             "repo": "iwyu-target-cmake",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -799,7 +850,8 @@
             "owner": "polysquare",
             "repo": "cmake-header-language",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -814,7 +866,8 @@
             "owner": "polysquare",
             "repo": "tooling-cmake-util",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -829,7 +882,8 @@
             "owner": "XiaoLey",
             "repo": "fetch_paths.cmake",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         }
       ],
       "title": "Utility Scripts"
@@ -850,7 +904,8 @@
             "owner": "dockcross",
             "repo": "dockcross",
             "stars": 3607
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -865,7 +920,8 @@
             "owner": "taka-no-me",
             "repo": "android-cmake",
             "stars": 1228
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -880,7 +936,8 @@
             "owner": "ruslo",
             "repo": "polly",
             "stars": 869
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -895,7 +952,8 @@
             "owner": "cristeab",
             "repo": "ios-cmake",
             "stars": 317
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -910,7 +968,8 @@
             "owner": "LaurentGomila",
             "repo": "qt-android-cmake",
             "stars": 250
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -925,7 +984,8 @@
             "owner": "mkleemann",
             "repo": "cmake-avr",
             "stars": 185
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -940,7 +1000,8 @@
             "owner": "a9183756-gh",
             "repo": "Arduino-CMake-Toolchain",
             "stars": 149
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -955,7 +1016,8 @@
             "owner": "mosra",
             "repo": "toolchains",
             "stars": 97
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -970,7 +1032,8 @@
             "owner": "francoiscampbell",
             "repo": "arduino-cmake",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -985,7 +1048,8 @@
             "owner": "staticlibs",
             "repo": "cmake",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         }
       ],
       "title": "Toolchains"
@@ -1005,8 +1069,9 @@
             "last_commit": "2024-02-28T22:39:37Z",
             "owner": "ttroy50",
             "repo": "cmake-examples",
-            "stars": 13076
-          }
+            "stars": 13075
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -1021,7 +1086,8 @@
             "owner": "TheLartians",
             "repo": "ModernCppStarter",
             "stars": 5392
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -1036,7 +1102,8 @@
             "owner": "dev-cafe",
             "repo": "cmake-cookbook",
             "stars": 2848
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -1051,7 +1118,8 @@
             "owner": "vector-of-bool",
             "repo": "pitchfork",
             "stars": 1258
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -1066,7 +1134,8 @@
             "owner": "pr0g",
             "repo": "cmake-examples",
             "stars": 1237
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -1081,7 +1150,8 @@
             "owner": "cginternals",
             "repo": "cmake-init",
             "stars": 941
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -1096,7 +1166,8 @@
             "owner": "pabloariasal",
             "repo": "modern-cmake-sample",
             "stars": 673
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -1111,7 +1182,8 @@
             "owner": "bsamseth",
             "repo": "cpp-project",
             "stars": 626
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -1126,7 +1198,8 @@
             "owner": "forexample",
             "repo": "package-example",
             "stars": 406
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -1141,7 +1214,8 @@
             "owner": "robotology",
             "repo": "how-to-export-cpp-library",
             "stars": 375
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -1156,7 +1230,8 @@
             "owner": "Lectem",
             "repo": "cpp-boilerplate",
             "stars": 331
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -1171,7 +1246,8 @@
             "owner": "euler0",
             "repo": "mini-cmake-qt",
             "stars": 221
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -1186,7 +1262,8 @@
             "owner": "krux02",
             "repo": "minimal_cmake_example",
             "stars": 211
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -1201,7 +1278,8 @@
             "owner": "bast",
             "repo": "cmake-example",
             "stars": 145
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -1216,7 +1294,8 @@
             "owner": "acdemiralp",
             "repo": "cmake_templates",
             "stars": 131
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -1231,7 +1310,8 @@
             "owner": "arnavb",
             "repo": "cpp14-project-template",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -1246,7 +1326,8 @@
             "owner": "joshpeterson",
             "repo": "cpp-template",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -1261,7 +1342,8 @@
             "owner": "adishavit",
             "repo": "cmake_snippets",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -1276,7 +1358,8 @@
             "owner": "abandonware-pjz37",
             "repo": "hunter-simple",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -1291,7 +1374,8 @@
             "owner": "cmake-basis",
             "repo": "BASIS",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -1305,8 +1389,9 @@
             "last_commit": "2021-09-07T12:17:40Z",
             "owner": "ptsouchlos",
             "repo": "CMakeInstallExample",
-            "stars": 39
-          }
+            "stars": 40
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -1321,7 +1406,8 @@
             "owner": "abandonware-pjz37",
             "repo": "android-cmake",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -1336,7 +1422,8 @@
             "owner": "MhmRhm",
             "repo": "SeeMake",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         }
       ],
       "title": "Examples / Templates"
@@ -1357,7 +1444,8 @@
             "owner": "scikit-build",
             "repo": "scikit-build",
             "stars": 533
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -1372,7 +1460,8 @@
             "owner": "jlblancoc",
             "repo": "suitesparse-metis-for-windows",
             "stars": 467
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -1386,8 +1475,9 @@
             "last_commit": "2025-02-11T02:50:57Z",
             "owner": "regen100",
             "repo": "cmake-language-server",
-            "stars": 406
-          }
+            "stars": 407
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -1402,7 +1492,8 @@
             "owner": "ros",
             "repo": "catkin",
             "stars": 340
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -1417,7 +1508,8 @@
             "owner": "bjornblissing",
             "repo": "osg-3rdparty-cmake",
             "stars": 200
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -1432,7 +1524,8 @@
             "owner": "rastersoft",
             "repo": "autovala",
             "stars": 105
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -1447,7 +1540,8 @@
             "owner": "richq",
             "repo": "cmake-lint",
             "stars": 104
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -1462,7 +1556,8 @@
             "owner": "cristianadam",
             "repo": "cmake-checks-cache",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -1477,7 +1572,8 @@
             "owner": "nemequ",
             "repo": "configure-cmake",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -1492,7 +1588,8 @@
             "owner": "cmake-maven-plugin",
             "repo": "cmake-maven-plugin",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -1507,7 +1604,8 @@
             "owner": "cjntaylor",
             "repo": "node-cmake",
             "stars": 77
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -1522,7 +1620,8 @@
             "owner": "h4tr3d",
             "repo": "cmakeprojectmanager2",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -1537,7 +1636,8 @@
             "owner": "dcarp",
             "repo": "cmake-d",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -1552,7 +1652,8 @@
             "owner": "kbenzie",
             "repo": "git-cmake-format",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -1567,7 +1668,8 @@
             "owner": "Lindydancer",
             "repo": "cmake-font-lock",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -1582,7 +1684,8 @@
             "owner": "dev-cafe",
             "repo": "autocmake",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -1597,7 +1700,8 @@
             "owner": "HEP-SoC",
             "repo": "SoCMake",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -1612,7 +1716,8 @@
             "owner": "polysquare",
             "repo": "cmake-ast",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -1627,7 +1732,8 @@
             "owner": "DaelDe",
             "repo": "cmake_check",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -1642,7 +1748,8 @@
             "owner": "cmakefmt",
             "repo": "cmakefmt",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -1657,7 +1764,8 @@
             "owner": "MhmRhm",
             "repo": "version-from-git",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         },
         {
           "node_type": "item",
@@ -1672,14 +1780,15 @@
             "owner": "pt9912",
             "repo": "cmake-xray",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
         }
       ],
       "title": "Other"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T03:33:21.154Z",
+    "last_updated": "2026-08-29T02:07:56.155Z",
     "original_repository_info": {
       "archived": false,
       "id": 67722380,
