@@ -162,11 +162,11 @@
             "id": 68312233,
             "language": "CMake",
             "license": "MIT",
-            "last_commit": "2026-08-29T20:11:42Z",
-            "open_issues": 1217,
+            "last_commit": "2026-08-30T20:42:52Z",
+            "open_issues": 1211,
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27405,
+            "stars": 27412,
             "topics": [
               "c",
               "cmake",
@@ -198,7 +198,7 @@
             "open_issues": 418,
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13175,
+            "stars": 13179,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -248,7 +248,7 @@
             "open_issues": 167,
             "owner": "cpm-cmake",
             "repo": "CPM.cmake",
-            "stars": 4107,
+            "stars": 4108,
             "topics": [
               "builds",
               "c",
@@ -377,13 +377,13 @@
           "description": "PMM is a module for CMake that manages... package managers.",
           "children": [],
           "repo_info": {
-            "archived": true,
+            "archived": false,
             "description": ":package: :mailbox_with_no_mail: It's the C++ Package Manager Manager",
             "homepage": "https://anotherfoxguy.com/pmm/",
             "id": 163286148,
             "language": "CMake",
             "license": "MIT",
-            "last_commit": "2021-02-15T15:49:42Z",
+            "last_commit": "2026-08-30T15:13:22Z",
             "open_issues": 6,
             "owner": "AnotherFoxGuy",
             "repo": "pmm",
@@ -773,7 +773,7 @@
             "id": 163581896,
             "language": "CMake",
             "license": null,
-            "last_commit": "2022-05-18T12:29:19Z",
+            "last_commit": "2026-08-30T14:29:57Z",
             "open_issues": 2,
             "owner": "AnotherFoxGuy",
             "repo": "CMakeCM",
@@ -1607,7 +1607,7 @@
             "open_issues": 30,
             "owner": "ttroy50",
             "repo": "cmake-examples",
-            "stars": 13075,
+            "stars": 13073,
             "topics": [
               "boost",
               "catch",
@@ -1642,7 +1642,7 @@
             "open_issues": 25,
             "owner": "TheLartians",
             "repo": "ModernCppStarter",
-            "stars": 5393,
+            "stars": 5394,
             "topics": [
               "bootstrap",
               "c",
@@ -2716,7 +2716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T21:41:51.114Z",
+    "last_updated": "2026-08-30T21:53:47.435Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CMake resources, scripts, modules and examples.",
@@ -2728,7 +2728,7 @@
       "open_issues": 4,
       "owner": "onqtam",
       "repo": "awesome-cmake",
-      "stars": 5419,
+      "stars": 5418,
       "topics": [
         "awesome",
         "awesome-list",
