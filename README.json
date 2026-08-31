@@ -162,11 +162,11 @@
             "id": 68312233,
             "language": "CMake",
             "license": "MIT",
-            "last_commit": "2026-08-30T20:42:52Z",
-            "open_issues": 1211,
+            "last_commit": "2026-08-31T15:35:31Z",
+            "open_issues": 1177,
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27412,
+            "stars": 27415,
             "topics": [
               "c",
               "cmake",
@@ -198,7 +198,7 @@
             "open_issues": 418,
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13179,
+            "stars": 13181,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -215,11 +215,11 @@
             "id": 47190624,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-27T08:49:23Z",
+            "last_commit": "2026-08-31T11:19:45Z",
             "open_issues": 479,
             "owner": "conan-io",
             "repo": "conan",
-            "stars": 9495,
+            "stars": 9496,
             "topics": [
               "c",
               "cmake",
@@ -248,7 +248,7 @@
             "open_issues": 167,
             "owner": "cpm-cmake",
             "repo": "CPM.cmake",
-            "stars": 4108,
+            "stars": 4109,
             "topics": [
               "builds",
               "c",
@@ -509,7 +509,7 @@
             "id": 42733731,
             "language": "CMake",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T18:25:31Z",
+            "last_commit": "2026-08-31T22:07:40Z",
             "open_issues": 0,
             "owner": "KDE",
             "repo": "extra-cmake-modules",
@@ -1607,7 +1607,7 @@
             "open_issues": 30,
             "owner": "ttroy50",
             "repo": "cmake-examples",
-            "stars": 13073,
+            "stars": 13072,
             "topics": [
               "boost",
               "catch",
@@ -1642,7 +1642,7 @@
             "open_issues": 25,
             "owner": "TheLartians",
             "repo": "ModernCppStarter",
-            "stars": 5394,
+            "stars": 5395,
             "topics": [
               "bootstrap",
               "c",
@@ -1733,7 +1733,7 @@
             "open_issues": 1,
             "owner": "pr0g",
             "repo": "cmake-examples",
-            "stars": 1237,
+            "stars": 1238,
             "topics": [
               "cmake",
               "cmake-examples",
@@ -2570,8 +2570,8 @@
             "id": 774482172,
             "language": "CMake",
             "license": "LGPL-3.0",
-            "last_commit": "2026-08-27T13:47:30Z",
-            "open_issues": 22,
+            "last_commit": "2026-08-31T14:24:10Z",
+            "open_issues": 21,
             "owner": "HEP-SoC",
             "repo": "SoCMake",
             "stars": 44,
@@ -2653,8 +2653,8 @@
             "id": 1198922986,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-24T12:07:07Z",
-            "open_issues": 33,
+            "last_commit": "2026-08-31T12:08:18Z",
+            "open_issues": 30,
             "owner": "cmakefmt",
             "repo": "cmakefmt",
             "stars": 19,
@@ -2716,7 +2716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T21:53:47.435Z",
+    "last_updated": "2026-08-31T23:11:17.782Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CMake resources, scripts, modules and examples.",
