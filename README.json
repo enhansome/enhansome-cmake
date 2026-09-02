@@ -162,11 +162,11 @@
             "id": 68312233,
             "language": "CMake",
             "license": "MIT",
-            "last_commit": "2026-08-31T15:35:31Z",
-            "open_issues": 1187,
+            "last_commit": "2026-09-02T19:16:48Z",
+            "open_issues": 1189,
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27421,
+            "stars": 27426,
             "topics": [
               "c",
               "cmake",
@@ -195,10 +195,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-07-25T20:55:58Z",
-            "open_issues": 419,
+            "open_issues": 418,
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13185,
+            "stars": 13186,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -216,10 +216,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-01T10:23:59Z",
-            "open_issues": 479,
+            "open_issues": 482,
             "owner": "conan-io",
             "repo": "conan",
-            "stars": 9500,
+            "stars": 9498,
             "topics": [
               "c",
               "cmake",
@@ -248,7 +248,7 @@
             "open_issues": 167,
             "owner": "cpm-cmake",
             "repo": "CPM.cmake",
-            "stars": 4110,
+            "stars": 4112,
             "topics": [
               "builds",
               "c",
@@ -287,7 +287,7 @@
             "open_issues": 180,
             "owner": "ruslo",
             "repo": "hunter",
-            "stars": 1888,
+            "stars": 1887,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -509,7 +509,7 @@
             "id": 42733731,
             "language": "CMake",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-31T22:07:40Z",
+            "last_commit": "2026-09-02T15:12:26Z",
             "open_issues": 0,
             "owner": "KDE",
             "repo": "extra-cmake-modules",
@@ -830,7 +830,7 @@
             "open_issues": 40,
             "owner": "toeb",
             "repo": "cmakepp",
-            "stars": 448,
+            "stars": 447,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -895,7 +895,7 @@
             "open_issues": 4,
             "owner": "onqtam",
             "repo": "ucm",
-            "stars": 214,
+            "stars": 213,
             "topics": [
               "cmake",
               "compiler-flags",
@@ -1349,7 +1349,7 @@
             "open_issues": 9,
             "owner": "dockcross",
             "repo": "dockcross",
-            "stars": 3607,
+            "stars": 3606,
             "topics": [
               "c",
               "c-plus-plus",
@@ -1607,7 +1607,7 @@
             "open_issues": 30,
             "owner": "ttroy50",
             "repo": "cmake-examples",
-            "stars": 13074,
+            "stars": 13076,
             "topics": [
               "boost",
               "catch",
@@ -1733,7 +1733,7 @@
             "open_issues": 1,
             "owner": "pr0g",
             "repo": "cmake-examples",
-            "stars": 1238,
+            "stars": 1237,
             "topics": [
               "cmake",
               "cmake-examples",
@@ -2657,7 +2657,7 @@
             "open_issues": 30,
             "owner": "cmakefmt",
             "repo": "cmakefmt",
-            "stars": 19,
+            "stars": 20,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -2716,7 +2716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T21:44:12.723Z",
+    "last_updated": "2026-09-02T21:46:13.580Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CMake resources, scripts, modules and examples.",
