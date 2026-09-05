@@ -163,10 +163,10 @@
             "language": "CMake",
             "license": "MIT",
             "last_commit": "2026-09-04T06:31:25Z",
-            "open_issues": 1179,
+            "open_issues": 1184,
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27435,
+            "stars": 27438,
             "topics": [
               "c",
               "cmake",
@@ -195,10 +195,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-09-03T15:28:10Z",
-            "open_issues": 415,
+            "open_issues": 416,
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13192,
+            "stars": 13194,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -216,10 +216,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-03T09:22:06Z",
-            "open_issues": 486,
+            "open_issues": 488,
             "owner": "conan-io",
             "repo": "conan",
-            "stars": 9503,
+            "stars": 9506,
             "topics": [
               "c",
               "cmake",
@@ -248,7 +248,7 @@
             "open_issues": 167,
             "owner": "cpm-cmake",
             "repo": "CPM.cmake",
-            "stars": 4114,
+            "stars": 4115,
             "topics": [
               "builds",
               "c",
@@ -509,7 +509,7 @@
             "id": 42733731,
             "language": "CMake",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-04T12:30:51Z",
+            "last_commit": "2026-09-05T18:22:48Z",
             "open_issues": 0,
             "owner": "KDE",
             "repo": "extra-cmake-modules",
@@ -1389,7 +1389,7 @@
             "open_issues": 45,
             "owner": "taka-no-me",
             "repo": "android-cmake",
-            "stars": 1228,
+            "stars": 1229,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -2716,7 +2716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T21:24:24.540Z",
+    "last_updated": "2026-09-05T21:10:17.755Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CMake resources, scripts, modules and examples.",
@@ -2728,7 +2728,7 @@
       "open_issues": 4,
       "owner": "onqtam",
       "repo": "awesome-cmake",
-      "stars": 5417,
+      "stars": 5416,
       "topics": [
         "awesome",
         "awesome-list",
