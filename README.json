@@ -163,10 +163,10 @@
             "language": "CMake",
             "license": "MIT",
             "last_commit": "2026-09-11T22:56:10Z",
-            "open_issues": 1114,
+            "open_issues": 1120,
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27459,
+            "stars": 27460,
             "topics": [
               "c",
               "cmake",
@@ -198,7 +198,7 @@
             "open_issues": 408,
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13220,
+            "stars": 13221,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -248,7 +248,7 @@
             "open_issues": 167,
             "owner": "cpm-cmake",
             "repo": "CPM.cmake",
-            "stars": 4120,
+            "stars": 4122,
             "topics": [
               "builds",
               "c",
@@ -352,7 +352,7 @@
             "open_issues": 51,
             "owner": "pfultz2",
             "repo": "cget",
-            "stars": 464,
+            "stars": 463,
             "topics": [
               "c",
               "cget",
@@ -445,7 +445,7 @@
             "open_issues": 19,
             "owner": "rpavlik",
             "repo": "cmake-modules",
-            "stars": 1071,
+            "stars": 1070,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -1607,7 +1607,7 @@
             "open_issues": 30,
             "owner": "ttroy50",
             "repo": "cmake-examples",
-            "stars": 13072,
+            "stars": 13071,
             "topics": [
               "boost",
               "catch",
@@ -1684,7 +1684,7 @@
             "open_issues": 28,
             "owner": "dev-cafe",
             "repo": "cmake-cookbook",
-            "stars": 2848,
+            "stars": 2847,
             "topics": [
               "c",
               "cmake",
@@ -1712,7 +1712,7 @@
             "open_issues": 42,
             "owner": "vector-of-bool",
             "repo": "pitchfork",
-            "stars": 1258,
+            "stars": 1257,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -1733,7 +1733,7 @@
             "open_issues": 1,
             "owner": "pr0g",
             "repo": "cmake-examples",
-            "stars": 1237,
+            "stars": 1236,
             "topics": [
               "cmake",
               "cmake-examples",
@@ -2716,7 +2716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T21:24:50.049Z",
+    "last_updated": "2026-09-13T21:24:31.502Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CMake resources, scripts, modules and examples.",
@@ -2728,7 +2728,7 @@
       "open_issues": 4,
       "owner": "onqtam",
       "repo": "awesome-cmake",
-      "stars": 5417,
+      "stars": 5416,
       "topics": [
         "awesome",
         "awesome-list",
