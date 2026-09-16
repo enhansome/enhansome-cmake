@@ -162,11 +162,11 @@
             "id": 68312233,
             "language": "CMake",
             "license": "MIT",
-            "last_commit": "2026-09-15T21:53:56Z",
-            "open_issues": 1122,
+            "last_commit": "2026-09-16T19:29:06Z",
+            "open_issues": 1131,
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27462,
+            "stars": 27463,
             "topics": [
               "c",
               "cmake",
@@ -198,7 +198,7 @@
             "open_issues": 408,
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13230,
+            "stars": 13234,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -215,11 +215,11 @@
             "id": 47190624,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-11T16:21:30Z",
-            "open_issues": 489,
+            "last_commit": "2026-09-16T22:04:22Z",
+            "open_issues": 491,
             "owner": "conan-io",
             "repo": "conan",
-            "stars": 9512,
+            "stars": 9515,
             "topics": [
               "c",
               "cmake",
@@ -245,10 +245,10 @@
             "language": "CMake",
             "license": "MIT",
             "last_commit": "2026-07-06T12:22:10Z",
-            "open_issues": 167,
+            "open_issues": 168,
             "owner": "cpm-cmake",
             "repo": "CPM.cmake",
-            "stars": 4125,
+            "stars": 4127,
             "topics": [
               "builds",
               "c",
@@ -1349,7 +1349,7 @@
             "open_issues": 8,
             "owner": "dockcross",
             "repo": "dockcross",
-            "stars": 3604,
+            "stars": 3605,
             "topics": [
               "c",
               "c-plus-plus",
@@ -1642,7 +1642,7 @@
             "open_issues": 25,
             "owner": "TheLartians",
             "repo": "ModernCppStarter",
-            "stars": 5402,
+            "stars": 5401,
             "topics": [
               "bootstrap",
               "c",
@@ -1892,7 +1892,7 @@
             "open_issues": 1,
             "owner": "Lectem",
             "repo": "cpp-boilerplate",
-            "stars": 331,
+            "stars": 332,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -2716,7 +2716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T22:10:28.413Z",
+    "last_updated": "2026-09-16T22:06:05.696Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CMake resources, scripts, modules and examples.",
