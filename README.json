@@ -162,11 +162,11 @@
             "id": 68312233,
             "language": "CMake",
             "license": "MIT",
-            "last_commit": "2026-09-16T19:29:06Z",
-            "open_issues": 1131,
+            "last_commit": "2026-09-17T20:35:49Z",
+            "open_issues": 1124,
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27463,
+            "stars": 27467,
             "topics": [
               "c",
               "cmake",
@@ -198,7 +198,7 @@
             "open_issues": 408,
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13234,
+            "stars": 13238,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -216,10 +216,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-16T22:04:22Z",
-            "open_issues": 491,
+            "open_issues": 490,
             "owner": "conan-io",
             "repo": "conan",
-            "stars": 9515,
+            "stars": 9516,
             "topics": [
               "c",
               "cmake",
@@ -1349,7 +1349,7 @@
             "open_issues": 8,
             "owner": "dockcross",
             "repo": "dockcross",
-            "stars": 3605,
+            "stars": 3606,
             "topics": [
               "c",
               "c-plus-plus",
@@ -1607,7 +1607,7 @@
             "open_issues": 30,
             "owner": "ttroy50",
             "repo": "cmake-examples",
-            "stars": 13070,
+            "stars": 13069,
             "topics": [
               "boost",
               "catch",
@@ -1642,7 +1642,7 @@
             "open_issues": 25,
             "owner": "TheLartians",
             "repo": "ModernCppStarter",
-            "stars": 5401,
+            "stars": 5403,
             "topics": [
               "bootstrap",
               "c",
@@ -1892,7 +1892,7 @@
             "open_issues": 1,
             "owner": "Lectem",
             "repo": "cpp-boilerplate",
-            "stars": 332,
+            "stars": 331,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -2716,7 +2716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T22:06:05.696Z",
+    "last_updated": "2026-09-17T22:06:51.264Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CMake resources, scripts, modules and examples.",
