@@ -162,11 +162,11 @@
             "id": 68312233,
             "language": "CMake",
             "license": "MIT",
-            "last_commit": "2026-09-17T20:35:49Z",
-            "open_issues": 1124,
+            "last_commit": "2026-09-18T06:09:04Z",
+            "open_issues": 1126,
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27467,
+            "stars": 27472,
             "topics": [
               "c",
               "cmake",
@@ -198,7 +198,7 @@
             "open_issues": 408,
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13238,
+            "stars": 13242,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -219,7 +219,7 @@
             "open_issues": 490,
             "owner": "conan-io",
             "repo": "conan",
-            "stars": 9516,
+            "stars": 9517,
             "topics": [
               "c",
               "cmake",
@@ -2716,7 +2716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T22:06:51.264Z",
+    "last_updated": "2026-09-18T21:37:36.883Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CMake resources, scripts, modules and examples.",
