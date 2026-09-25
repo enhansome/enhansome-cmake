@@ -162,11 +162,11 @@
             "id": 68312233,
             "language": "CMake",
             "license": "MIT",
-            "last_commit": "2026-09-24T19:59:35Z",
-            "open_issues": 1088,
+            "last_commit": "2026-09-25T20:46:08Z",
+            "open_issues": 1098,
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27484,
+            "stars": 27485,
             "topics": [
               "c",
               "cmake",
@@ -195,10 +195,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-09-24T21:02:35Z",
-            "open_issues": 407,
+            "open_issues": 408,
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13262,
+            "stars": 13264,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -215,11 +215,11 @@
             "id": 47190624,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-24T14:33:08Z",
-            "open_issues": 479,
+            "last_commit": "2026-09-25T16:07:46Z",
+            "open_issues": 476,
             "owner": "conan-io",
             "repo": "conan",
-            "stars": 9529,
+            "stars": 9528,
             "topics": [
               "c",
               "cmake",
@@ -1607,7 +1607,7 @@
             "open_issues": 30,
             "owner": "ttroy50",
             "repo": "cmake-examples",
-            "stars": 13064,
+            "stars": 13065,
             "topics": [
               "boost",
               "catch",
@@ -2716,7 +2716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T22:19:33.588Z",
+    "last_updated": "2026-09-25T22:15:32.250Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CMake resources, scripts, modules and examples.",
