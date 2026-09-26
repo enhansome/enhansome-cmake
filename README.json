@@ -162,11 +162,11 @@
             "id": 68312233,
             "language": "CMake",
             "license": "MIT",
-            "last_commit": "2026-09-25T20:46:08Z",
-            "open_issues": 1098,
+            "last_commit": "2026-09-26T12:27:50Z",
+            "open_issues": 1091,
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27485,
+            "stars": 27489,
             "topics": [
               "c",
               "cmake",
@@ -195,10 +195,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-09-24T21:02:35Z",
-            "open_issues": 408,
+            "open_issues": 410,
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13264,
+            "stars": 13265,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -219,7 +219,7 @@
             "open_issues": 476,
             "owner": "conan-io",
             "repo": "conan",
-            "stars": 9528,
+            "stars": 9527,
             "topics": [
               "c",
               "cmake",
@@ -248,7 +248,7 @@
             "open_issues": 166,
             "owner": "cpm-cmake",
             "repo": "CPM.cmake",
-            "stars": 4132,
+            "stars": 4134,
             "topics": [
               "builds",
               "c",
@@ -509,7 +509,7 @@
             "id": 42733731,
             "language": "CMake",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-11T21:30:37Z",
+            "last_commit": "2026-09-26T20:11:37Z",
             "open_issues": 0,
             "owner": "KDE",
             "repo": "extra-cmake-modules",
@@ -2716,7 +2716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T22:15:32.250Z",
+    "last_updated": "2026-09-26T21:56:33.042Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CMake resources, scripts, modules and examples.",
