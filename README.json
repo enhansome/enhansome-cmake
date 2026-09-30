@@ -162,11 +162,11 @@
             "id": 68312233,
             "language": "CMake",
             "license": "MIT",
-            "last_commit": "2026-09-29T21:47:48Z",
-            "open_issues": 1099,
+            "last_commit": "2026-09-30T19:16:08Z",
+            "open_issues": 1100,
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27507,
+            "stars": 27510,
             "topics": [
               "c",
               "cmake",
@@ -195,10 +195,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-09-24T21:02:35Z",
-            "open_issues": 412,
+            "open_issues": 413,
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13273,
+            "stars": 13274,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -215,11 +215,11 @@
             "id": 47190624,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-29T15:34:17Z",
-            "open_issues": 467,
+            "last_commit": "2026-09-30T08:56:57Z",
+            "open_issues": 468,
             "owner": "conan-io",
             "repo": "conan",
-            "stars": 9528,
+            "stars": 9530,
             "topics": [
               "c",
               "cmake",
@@ -509,7 +509,7 @@
             "id": 42733731,
             "language": "CMake",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-26T20:11:37Z",
+            "last_commit": "2026-09-30T16:32:48Z",
             "open_issues": 0,
             "owner": "KDE",
             "repo": "extra-cmake-modules",
@@ -1607,7 +1607,7 @@
             "open_issues": 30,
             "owner": "ttroy50",
             "repo": "cmake-examples",
-            "stars": 13065,
+            "stars": 13064,
             "topics": [
               "boost",
               "catch",
@@ -1684,7 +1684,7 @@
             "open_issues": 28,
             "owner": "dev-cafe",
             "repo": "cmake-cookbook",
-            "stars": 2847,
+            "stars": 2848,
             "topics": [
               "c",
               "cmake",
@@ -1712,7 +1712,7 @@
             "open_issues": 42,
             "owner": "vector-of-bool",
             "repo": "pitchfork",
-            "stars": 1256,
+            "stars": 1255,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -1733,7 +1733,7 @@
             "open_issues": 1,
             "owner": "pr0g",
             "repo": "cmake-examples",
-            "stars": 1238,
+            "stars": 1239,
             "topics": [
               "cmake",
               "cmake-examples",
@@ -2206,8 +2206,8 @@
             "id": 21749516,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-28T14:07:35Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-30T18:40:11Z",
+            "open_issues": 2,
             "owner": "scikit-build",
             "repo": "scikit-build",
             "stars": 534,
@@ -2630,7 +2630,7 @@
             "open_issues": 34,
             "owner": "cmakefmt",
             "repo": "cmakefmt",
-            "stars": 24,
+            "stars": 25,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -2716,7 +2716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T22:56:33.336Z",
+    "last_updated": "2026-09-30T22:58:32.872Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CMake resources, scripts, modules and examples.",
@@ -2728,7 +2728,7 @@
       "open_issues": 4,
       "owner": "onqtam",
       "repo": "awesome-cmake",
-      "stars": 5417,
+      "stars": 5419,
       "topics": [
         "awesome",
         "awesome-list",
