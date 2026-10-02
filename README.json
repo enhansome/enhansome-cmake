@@ -162,8 +162,8 @@
             "id": 68312233,
             "language": "CMake",
             "license": "MIT",
-            "last_commit": "2026-10-01T23:01:29Z",
-            "open_issues": 1098,
+            "last_commit": "2026-10-02T22:17:21Z",
+            "open_issues": 1090,
             "owner": "microsoft",
             "repo": "vcpkg",
             "stars": 27512,
@@ -198,7 +198,7 @@
             "open_issues": 413,
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13278,
+            "stars": 13280,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -215,11 +215,11 @@
             "id": 47190624,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-01T15:17:18Z",
-            "open_issues": 471,
+            "last_commit": "2026-10-02T10:52:59Z",
+            "open_issues": 469,
             "owner": "conan-io",
             "repo": "conan",
-            "stars": 9530,
+            "stars": 9528,
             "topics": [
               "c",
               "cmake",
@@ -248,7 +248,7 @@
             "open_issues": 166,
             "owner": "cpm-cmake",
             "repo": "CPM.cmake",
-            "stars": 4136,
+            "stars": 4135,
             "topics": [
               "builds",
               "c",
@@ -509,7 +509,7 @@
             "id": 42733731,
             "language": "CMake",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T12:01:59Z",
+            "last_commit": "2026-10-02T15:28:29Z",
             "open_issues": 0,
             "owner": "KDE",
             "repo": "extra-cmake-modules",
@@ -807,7 +807,7 @@
             "open_issues": 70,
             "owner": "sakra",
             "repo": "cotire",
-            "stars": 1296,
+            "stars": 1295,
             "topics": [
               "cmake"
             ]
@@ -1607,7 +1607,7 @@
             "open_issues": 30,
             "owner": "ttroy50",
             "repo": "cmake-examples",
-            "stars": 13065,
+            "stars": 13064,
             "topics": [
               "boost",
               "catch",
@@ -2206,8 +2206,8 @@
             "id": 21749516,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T04:46:36Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-02T20:03:18Z",
+            "open_issues": 0,
             "owner": "scikit-build",
             "repo": "scikit-build",
             "stars": 534,
@@ -2626,8 +2626,8 @@
             "id": 1198922986,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T22:43:17Z",
-            "open_issues": 14,
+            "last_commit": "2026-10-02T09:28:10Z",
+            "open_issues": 10,
             "owner": "cmakefmt",
             "repo": "cmakefmt",
             "stars": 25,
@@ -2716,7 +2716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T23:08:19.050Z",
+    "last_updated": "2026-10-02T22:56:41.249Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CMake resources, scripts, modules and examples.",
