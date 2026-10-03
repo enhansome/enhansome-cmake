@@ -162,11 +162,11 @@
             "id": 68312233,
             "language": "CMake",
             "license": "MIT",
-            "last_commit": "2026-10-02T22:17:21Z",
-            "open_issues": 1090,
+            "last_commit": "2026-10-03T01:56:12Z",
+            "open_issues": 1092,
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27512,
+            "stars": 27513,
             "topics": [
               "c",
               "cmake",
@@ -198,7 +198,7 @@
             "open_issues": 413,
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13280,
+            "stars": 13281,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -412,7 +412,7 @@
             "id": 739917709,
             "language": "CMake",
             "license": "MIT",
-            "last_commit": "2026-05-04T03:26:00Z",
+            "last_commit": "2026-10-03T04:26:37Z",
             "open_issues": 0,
             "owner": "jpetrie",
             "repo": "fetch-dependency",
@@ -1607,7 +1607,7 @@
             "open_issues": 30,
             "owner": "ttroy50",
             "repo": "cmake-examples",
-            "stars": 13064,
+            "stars": 13065,
             "topics": [
               "boost",
               "catch",
@@ -1642,7 +1642,7 @@
             "open_issues": 25,
             "owner": "TheLartians",
             "repo": "ModernCppStarter",
-            "stars": 5410,
+            "stars": 5409,
             "topics": [
               "bootstrap",
               "c",
@@ -1684,7 +1684,7 @@
             "open_issues": 28,
             "owner": "dev-cafe",
             "repo": "cmake-cookbook",
-            "stars": 2848,
+            "stars": 2847,
             "topics": [
               "c",
               "cmake",
@@ -2716,7 +2716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T22:56:41.249Z",
+    "last_updated": "2026-10-03T04:40:53.695Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CMake resources, scripts, modules and examples.",
@@ -2728,7 +2728,7 @@
       "open_issues": 4,
       "owner": "onqtam",
       "repo": "awesome-cmake",
-      "stars": 5420,
+      "stars": 5421,
       "topics": [
         "awesome",
         "awesome-list",
