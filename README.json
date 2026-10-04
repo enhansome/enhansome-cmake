@@ -162,11 +162,11 @@
             "id": 68312233,
             "language": "CMake",
             "license": "MIT",
-            "last_commit": "2026-10-03T21:57:16Z",
-            "open_issues": 1083,
+            "last_commit": "2026-10-04T10:19:46Z",
+            "open_issues": 1086,
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27514,
+            "stars": 27516,
             "topics": [
               "c",
               "cmake",
@@ -406,7 +406,7 @@
           "description": "Configuration-time retrieval, configuration and building of dependencies.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "Configuration-time dependency management for CMake.",
             "homepage": null,
             "id": 739917709,
@@ -509,7 +509,7 @@
             "id": 42733731,
             "language": "CMake",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T14:35:13Z",
+            "last_commit": "2026-10-04T12:04:50Z",
             "open_issues": 0,
             "owner": "KDE",
             "repo": "extra-cmake-modules",
@@ -1410,7 +1410,7 @@
             "open_issues": 20,
             "owner": "ruslo",
             "repo": "polly",
-            "stars": 868,
+            "stars": 867,
             "topics": [
               "appveyor",
               "cmake",
@@ -1642,7 +1642,7 @@
             "open_issues": 25,
             "owner": "TheLartians",
             "repo": "ModernCppStarter",
-            "stars": 5409,
+            "stars": 5408,
             "topics": [
               "bootstrap",
               "c",
@@ -2716,7 +2716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T22:06:33.515Z",
+    "last_updated": "2026-10-04T22:18:49.667Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CMake resources, scripts, modules and examples.",
