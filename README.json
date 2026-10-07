@@ -162,11 +162,11 @@
             "id": 68312233,
             "language": "CMake",
             "license": "MIT",
-            "last_commit": "2026-10-06T22:05:03Z",
-            "open_issues": 1089,
+            "last_commit": "2026-10-07T22:35:38Z",
+            "open_issues": 1077,
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27519,
+            "stars": 27522,
             "topics": [
               "c",
               "cmake",
@@ -198,7 +198,7 @@
             "open_issues": 413,
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13288,
+            "stars": 13293,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -215,11 +215,11 @@
             "id": 47190624,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-05T14:23:37Z",
+            "last_commit": "2026-10-07T11:12:12Z",
             "open_issues": 471,
             "owner": "conan-io",
             "repo": "conan",
-            "stars": 9527,
+            "stars": 9528,
             "topics": [
               "c",
               "cmake",
@@ -445,7 +445,7 @@
             "open_issues": 19,
             "owner": "rpavlik",
             "repo": "cmake-modules",
-            "stars": 1069,
+            "stars": 1068,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -509,7 +509,7 @@
             "id": 42733731,
             "language": "CMake",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-05T14:12:03Z",
+            "last_commit": "2026-10-07T19:18:22Z",
             "open_issues": 0,
             "owner": "KDE",
             "repo": "extra-cmake-modules",
@@ -1607,7 +1607,7 @@
             "open_issues": 30,
             "owner": "ttroy50",
             "repo": "cmake-examples",
-            "stars": 13062,
+            "stars": 13066,
             "topics": [
               "boost",
               "catch",
@@ -2716,7 +2716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T22:59:33.021Z",
+    "last_updated": "2026-10-07T23:33:18.575Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CMake resources, scripts, modules and examples.",
