@@ -163,10 +163,10 @@
             "language": "CMake",
             "license": "MIT",
             "last_commit": "2026-10-10T01:05:48Z",
-            "open_issues": 1075,
+            "open_issues": 1094,
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27516,
+            "stars": 27515,
             "topics": [
               "c",
               "cmake",
@@ -198,7 +198,7 @@
             "open_issues": 415,
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13296,
+            "stars": 13298,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -248,7 +248,7 @@
             "open_issues": 168,
             "owner": "cpm-cmake",
             "repo": "CPM.cmake",
-            "stars": 4136,
+            "stars": 4138,
             "topics": [
               "builds",
               "c",
@@ -1478,7 +1478,7 @@
             "open_issues": 9,
             "owner": "mkleemann",
             "repo": "cmake-avr",
-            "stars": 183,
+            "stars": 184,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -1684,7 +1684,7 @@
             "open_issues": 28,
             "owner": "dev-cafe",
             "repo": "cmake-cookbook",
-            "stars": 2846,
+            "stars": 2847,
             "topics": [
               "c",
               "cmake",
@@ -2716,7 +2716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T22:27:17.686Z",
+    "last_updated": "2026-10-11T22:49:56.569Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CMake resources, scripts, modules and examples.",
