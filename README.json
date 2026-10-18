@@ -162,11 +162,11 @@
             "id": 68312233,
             "language": "CMake",
             "license": "MIT",
-            "last_commit": "2026-10-17T15:40:35Z",
-            "open_issues": 1099,
+            "last_commit": "2026-10-18T17:48:24Z",
+            "open_issues": 1103,
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27526,
+            "stars": 27522,
             "topics": [
               "c",
               "cmake",
@@ -194,11 +194,11 @@
             "id": 1335132,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-17T14:20:24Z",
-            "open_issues": 415,
+            "last_commit": "2026-10-18T20:25:20Z",
+            "open_issues": 412,
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13312,
+            "stars": 13313,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -216,10 +216,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-16T11:02:35Z",
-            "open_issues": 472,
+            "open_issues": 473,
             "owner": "conan-io",
             "repo": "conan",
-            "stars": 9538,
+            "stars": 9539,
             "topics": [
               "c",
               "cmake",
@@ -248,7 +248,7 @@
             "open_issues": 167,
             "owner": "cpm-cmake",
             "repo": "CPM.cmake",
-            "stars": 4142,
+            "stars": 4144,
             "topics": [
               "builds",
               "c",
@@ -1607,7 +1607,7 @@
             "open_issues": 30,
             "owner": "ttroy50",
             "repo": "cmake-examples",
-            "stars": 13069,
+            "stars": 13067,
             "topics": [
               "boost",
               "catch",
@@ -1642,7 +1642,7 @@
             "open_issues": 25,
             "owner": "TheLartians",
             "repo": "ModernCppStarter",
-            "stars": 5403,
+            "stars": 5404,
             "topics": [
               "bootstrap",
               "c",
@@ -2267,7 +2267,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-02-11T02:50:57Z",
-            "open_issues": 24,
+            "open_issues": 25,
             "owner": "regen100",
             "repo": "cmake-language-server",
             "stars": 409,
@@ -2716,7 +2716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T21:24:33.479Z",
+    "last_updated": "2026-10-18T21:27:15.752Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CMake resources, scripts, modules and examples.",
