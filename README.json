@@ -162,11 +162,11 @@
             "id": 68312233,
             "language": "CMake",
             "license": "MIT",
-            "last_commit": "2026-10-18T17:48:24Z",
-            "open_issues": 1103,
+            "last_commit": "2026-10-19T21:51:07Z",
+            "open_issues": 1136,
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27522,
+            "stars": 27526,
             "topics": [
               "c",
               "cmake",
@@ -198,7 +198,7 @@
             "open_issues": 412,
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13313,
+            "stars": 13315,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -219,7 +219,7 @@
             "open_issues": 473,
             "owner": "conan-io",
             "repo": "conan",
-            "stars": 9539,
+            "stars": 9540,
             "topics": [
               "c",
               "cmake",
@@ -248,7 +248,7 @@
             "open_issues": 167,
             "owner": "cpm-cmake",
             "repo": "CPM.cmake",
-            "stars": 4144,
+            "stars": 4146,
             "topics": [
               "builds",
               "c",
@@ -509,7 +509,7 @@
             "id": 42733731,
             "language": "CMake",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-17T03:39:41Z",
+            "last_commit": "2026-10-19T16:28:55Z",
             "open_issues": 0,
             "owner": "KDE",
             "repo": "extra-cmake-modules",
@@ -851,7 +851,7 @@
             "open_issues": 0,
             "owner": "Crascit",
             "repo": "DownloadProject",
-            "stars": 444,
+            "stars": 443,
             "topics": [
               "cmake"
             ]
@@ -1349,7 +1349,7 @@
             "open_issues": 6,
             "owner": "dockcross",
             "repo": "dockcross",
-            "stars": 3611,
+            "stars": 3612,
             "topics": [
               "c",
               "c-plus-plus",
@@ -1642,7 +1642,7 @@
             "open_issues": 25,
             "owner": "TheLartians",
             "repo": "ModernCppStarter",
-            "stars": 5404,
+            "stars": 5405,
             "topics": [
               "bootstrap",
               "c",
@@ -1684,7 +1684,7 @@
             "open_issues": 28,
             "owner": "dev-cafe",
             "repo": "cmake-cookbook",
-            "stars": 2847,
+            "stars": 2846,
             "topics": [
               "c",
               "cmake",
@@ -1759,7 +1759,7 @@
             "open_issues": 24,
             "owner": "cginternals",
             "repo": "cmake-init",
-            "stars": 941,
+            "stars": 942,
             "topics": [
               "c-plus-plus",
               "c-plus-plus-11",
@@ -2626,11 +2626,11 @@
             "id": 1198922986,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-13T15:25:57Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-19T12:08:56Z",
+            "open_issues": 13,
             "owner": "cmakefmt",
             "repo": "cmakefmt",
-            "stars": 27,
+            "stars": 28,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -2716,7 +2716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T21:27:15.752Z",
+    "last_updated": "2026-10-19T22:53:07.601Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CMake resources, scripts, modules and examples.",
