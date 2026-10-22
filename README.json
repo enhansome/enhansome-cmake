@@ -162,11 +162,11 @@
             "id": 68312233,
             "language": "CMake",
             "license": "MIT",
-            "last_commit": "2026-10-21T22:15:32Z",
-            "open_issues": 1116,
+            "last_commit": "2026-10-22T21:06:51Z",
+            "open_issues": 1106,
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27529,
+            "stars": 27530,
             "topics": [
               "c",
               "cmake",
@@ -195,10 +195,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-10-18T20:25:20Z",
-            "open_issues": 415,
+            "open_issues": 418,
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13315,
+            "stars": 13316,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -215,8 +215,8 @@
             "id": 47190624,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-21T09:29:57Z",
-            "open_issues": 470,
+            "last_commit": "2026-10-22T16:33:33Z",
+            "open_issues": 467,
             "owner": "conan-io",
             "repo": "conan",
             "stars": 9541,
@@ -509,7 +509,7 @@
             "id": 42733731,
             "language": "CMake",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-20T07:28:39Z",
+            "last_commit": "2026-10-22T15:07:08Z",
             "open_issues": 0,
             "owner": "KDE",
             "repo": "extra-cmake-modules",
@@ -1642,7 +1642,7 @@
             "open_issues": 25,
             "owner": "TheLartians",
             "repo": "ModernCppStarter",
-            "stars": 5404,
+            "stars": 5405,
             "topics": [
               "bootstrap",
               "c",
@@ -1684,7 +1684,7 @@
             "open_issues": 28,
             "owner": "dev-cafe",
             "repo": "cmake-cookbook",
-            "stars": 2847,
+            "stars": 2848,
             "topics": [
               "c",
               "cmake",
@@ -1712,7 +1712,7 @@
             "open_issues": 42,
             "owner": "vector-of-bool",
             "repo": "pitchfork",
-            "stars": 1258,
+            "stars": 1259,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -2716,7 +2716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T22:17:32.600Z",
+    "last_updated": "2026-10-22T22:16:05.208Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CMake resources, scripts, modules and examples.",
