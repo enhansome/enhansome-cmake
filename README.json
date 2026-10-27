@@ -162,11 +162,11 @@
             "id": 68312233,
             "language": "CMake",
             "license": "MIT",
-            "last_commit": "2026-10-26T18:56:26Z",
-            "open_issues": 1141,
+            "last_commit": "2026-10-27T22:19:25Z",
+            "open_issues": 1071,
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27541,
+            "stars": 27546,
             "topics": [
               "c",
               "cmake",
@@ -198,7 +198,7 @@
             "open_issues": 423,
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13318,
+            "stars": 13320,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -215,8 +215,8 @@
             "id": 47190624,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-26T19:07:32Z",
-            "open_issues": 462,
+            "last_commit": "2026-10-27T15:31:56Z",
+            "open_issues": 454,
             "owner": "conan-io",
             "repo": "conan",
             "stars": 9548,
@@ -248,7 +248,7 @@
             "open_issues": 167,
             "owner": "cpm-cmake",
             "repo": "CPM.cmake",
-            "stars": 4148,
+            "stars": 4153,
             "topics": [
               "builds",
               "c",
@@ -308,7 +308,7 @@
             "open_issues": 14,
             "owner": "iauns",
             "repo": "cpm",
-            "stars": 750,
+            "stars": 751,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -1014,7 +1014,7 @@
             "language": "CMake",
             "license": "BSD-3-Clause",
             "last_commit": "2026-04-03T07:54:08Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "RWTH-HPC",
             "repo": "CMake-codecov",
             "stars": 98,
@@ -1457,7 +1457,7 @@
             "open_issues": 4,
             "owner": "LaurentGomila",
             "repo": "qt-android-cmake",
-            "stars": 250,
+            "stars": 249,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -1607,7 +1607,7 @@
             "open_issues": 30,
             "owner": "ttroy50",
             "repo": "cmake-examples",
-            "stars": 13066,
+            "stars": 13067,
             "topics": [
               "boost",
               "catch",
@@ -1642,7 +1642,7 @@
             "open_issues": 26,
             "owner": "TheLartians",
             "repo": "ModernCppStarter",
-            "stars": 5404,
+            "stars": 5403,
             "topics": [
               "bootstrap",
               "c",
@@ -1712,7 +1712,7 @@
             "open_issues": 42,
             "owner": "vector-of-bool",
             "repo": "pitchfork",
-            "stars": 1258,
+            "stars": 1259,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -2626,8 +2626,8 @@
             "id": 1198922986,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-26T15:37:51Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-27T22:54:39Z",
+            "open_issues": 1,
             "owner": "cmakefmt",
             "repo": "cmakefmt",
             "stars": 29,
@@ -2716,7 +2716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T23:05:45.895Z",
+    "last_updated": "2026-10-27T22:55:04.070Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CMake resources, scripts, modules and examples.",
