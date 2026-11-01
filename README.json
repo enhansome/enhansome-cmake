@@ -19,7 +19,7 @@
             "open_issues": 25,
             "owner": "ruslo",
             "repo": "CGold",
-            "stars": 534,
+            "stars": 533,
             "topics": [
               "cmake",
               "tutorial"
@@ -163,10 +163,10 @@
             "language": "CMake",
             "license": "MIT",
             "last_commit": "2026-10-31T06:47:00Z",
-            "open_issues": 1098,
+            "open_issues": 1107,
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27557,
+            "stars": 27561,
             "topics": [
               "c",
               "cmake",
@@ -194,11 +194,11 @@
             "id": 1335132,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-18T20:25:20Z",
-            "open_issues": 427,
+            "last_commit": "2026-11-01T14:33:23Z",
+            "open_issues": 430,
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13331,
+            "stars": 13332,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -219,7 +219,7 @@
             "open_issues": 460,
             "owner": "conan-io",
             "repo": "conan",
-            "stars": 9552,
+            "stars": 9553,
             "topics": [
               "c",
               "cmake",
@@ -248,7 +248,7 @@
             "open_issues": 168,
             "owner": "cpm-cmake",
             "repo": "CPM.cmake",
-            "stars": 4160,
+            "stars": 4159,
             "topics": [
               "builds",
               "c",
@@ -348,8 +348,8 @@
             "id": 52641298,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-07-14T22:59:42Z",
-            "open_issues": 51,
+            "last_commit": "2026-11-01T14:54:35Z",
+            "open_issues": 52,
             "owner": "pfultz2",
             "repo": "cget",
             "stars": 463,
@@ -466,7 +466,7 @@
             "open_issues": 31,
             "owner": "bilke",
             "repo": "cmake-modules",
-            "stars": 590,
+            "stars": 591,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -509,7 +509,7 @@
             "id": 42733731,
             "language": "CMake",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-28T21:39:01Z",
+            "last_commit": "2026-11-01T09:09:45Z",
             "open_issues": 0,
             "owner": "KDE",
             "repo": "extra-cmake-modules",
@@ -1254,7 +1254,7 @@
             "open_issues": 0,
             "owner": "polysquare",
             "repo": "iwyu-target-cmake",
-            "stars": 10,
+            "stars": 11,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -1349,7 +1349,7 @@
             "open_issues": 6,
             "owner": "dockcross",
             "repo": "dockcross",
-            "stars": 3613,
+            "stars": 3614,
             "topics": [
               "c",
               "c-plus-plus",
@@ -1642,7 +1642,7 @@
             "open_issues": 26,
             "owner": "TheLartians",
             "repo": "ModernCppStarter",
-            "stars": 5409,
+            "stars": 5410,
             "topics": [
               "bootstrap",
               "c",
@@ -1733,7 +1733,7 @@
             "open_issues": 1,
             "owner": "pr0g",
             "repo": "cmake-examples",
-            "stars": 1237,
+            "stars": 1236,
             "topics": [
               "cmake",
               "cmake-examples",
@@ -2206,8 +2206,8 @@
             "id": 21749516,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T15:39:45Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-01T04:43:05Z",
+            "open_issues": 1,
             "owner": "scikit-build",
             "repo": "scikit-build",
             "stars": 534,
@@ -2509,8 +2509,43 @@
             "open_issues": 2,
             "owner": "kbenzie",
             "repo": "git-cmake-format",
-            "stars": 61,
+            "stars": 62,
             "topics": []
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
+        },
+        {
+          "node_type": "item",
+          "title": "SoCMake",
+          "description": "CMake based build system for hardware (ASIC, FPGA) and System-on-Chip build automation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "CMake based hardware build system",
+            "homepage": "https://hep-soc.github.io/SoCMake/",
+            "id": 774482172,
+            "language": "CMake",
+            "license": "LGPL-3.0",
+            "last_commit": "2026-08-31T14:24:10Z",
+            "open_issues": 21,
+            "owner": "HEP-SoC",
+            "repo": "SoCMake",
+            "stars": 48,
+            "topics": [
+              "asic",
+              "build-automation",
+              "build-system",
+              "cmake",
+              "fpga",
+              "integrated-circuits",
+              "system-on-chip",
+              "systemc",
+              "systemverilog",
+              "verilator",
+              "verilog",
+              "vhdl",
+              "vhdl-language"
+            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -2532,41 +2567,6 @@
             "repo": "cmake-font-lock",
             "stars": 47,
             "topics": []
-          },
-          "first_seen": "2026-08-29T02:07:56.155Z"
-        },
-        {
-          "node_type": "item",
-          "title": "SoCMake",
-          "description": "CMake based build system for hardware (ASIC, FPGA) and System-on-Chip build automation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "CMake based hardware build system",
-            "homepage": "https://hep-soc.github.io/SoCMake/",
-            "id": 774482172,
-            "language": "CMake",
-            "license": "LGPL-3.0",
-            "last_commit": "2026-08-31T14:24:10Z",
-            "open_issues": 21,
-            "owner": "HEP-SoC",
-            "repo": "SoCMake",
-            "stars": 47,
-            "topics": [
-              "asic",
-              "build-automation",
-              "build-system",
-              "cmake",
-              "fpga",
-              "integrated-circuits",
-              "system-on-chip",
-              "systemc",
-              "systemverilog",
-              "verilator",
-              "verilog",
-              "vhdl",
-              "vhdl-language"
-            ]
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
         },
@@ -2716,7 +2716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T22:25:55.727Z",
+    "last_updated": "2026-11-01T22:45:03.441Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CMake resources, scripts, modules and examples.",
@@ -2728,7 +2728,7 @@
       "open_issues": 4,
       "owner": "onqtam",
       "repo": "awesome-cmake",
-      "stars": 5435,
+      "stars": 5436,
       "topics": [
         "awesome",
         "awesome-list",
