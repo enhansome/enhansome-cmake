@@ -162,11 +162,11 @@
             "id": 68312233,
             "language": "CMake",
             "license": "MIT",
-            "last_commit": "2026-11-02T23:42:18Z",
-            "open_issues": 1078,
+            "last_commit": "2026-11-03T09:55:27Z",
+            "open_issues": 1084,
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27563,
+            "stars": 27567,
             "topics": [
               "c",
               "cmake",
@@ -194,8 +194,8 @@
             "id": 1335132,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-02T21:23:47Z",
-            "open_issues": 429,
+            "last_commit": "2026-11-03T19:32:55Z",
+            "open_issues": 423,
             "owner": "ninja-build",
             "repo": "ninja",
             "stars": 13335,
@@ -215,11 +215,11 @@
             "id": 47190624,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-31T19:08:58Z",
-            "open_issues": 461,
+            "last_commit": "2026-11-03T16:17:32Z",
+            "open_issues": 455,
             "owner": "conan-io",
             "repo": "conan",
-            "stars": 9553,
+            "stars": 9556,
             "topics": [
               "c",
               "cmake",
@@ -248,7 +248,7 @@
             "open_issues": 168,
             "owner": "cpm-cmake",
             "repo": "CPM.cmake",
-            "stars": 4159,
+            "stars": 4156,
             "topics": [
               "builds",
               "c",
@@ -851,7 +851,7 @@
             "open_issues": 0,
             "owner": "Crascit",
             "repo": "DownloadProject",
-            "stars": 443,
+            "stars": 444,
             "topics": [
               "cmake"
             ]
@@ -1607,7 +1607,7 @@
             "open_issues": 30,
             "owner": "ttroy50",
             "repo": "cmake-examples",
-            "stars": 13068,
+            "stars": 13067,
             "topics": [
               "boost",
               "catch",
@@ -1843,7 +1843,7 @@
             "open_issues": 0,
             "owner": "forexample",
             "repo": "package-example",
-            "stars": 406,
+            "stars": 407,
             "topics": [
               "cmake",
               "example"
@@ -2626,8 +2626,8 @@
             "id": 1198922986,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-02T12:11:44Z",
-            "open_issues": 7,
+            "last_commit": "2026-11-03T11:22:01Z",
+            "open_issues": 3,
             "owner": "cmakefmt",
             "repo": "cmakefmt",
             "stars": 29,
@@ -2716,7 +2716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T01:31:44.247Z",
+    "last_updated": "2026-11-03T23:57:09.535Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CMake resources, scripts, modules and examples.",
