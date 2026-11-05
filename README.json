@@ -162,11 +162,11 @@
             "id": 68312233,
             "language": "CMake",
             "license": "MIT",
-            "last_commit": "2026-11-03T09:55:27Z",
-            "open_issues": 1084,
+            "last_commit": "2026-11-04T20:40:18Z",
+            "open_issues": 1060,
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27567,
+            "stars": 27570,
             "topics": [
               "c",
               "cmake",
@@ -195,7 +195,7 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-11-03T19:32:55Z",
-            "open_issues": 423,
+            "open_issues": 424,
             "owner": "ninja-build",
             "repo": "ninja",
             "stars": 13335,
@@ -215,8 +215,8 @@
             "id": 47190624,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-03T16:17:32Z",
-            "open_issues": 455,
+            "last_commit": "2026-11-04T16:46:31Z",
+            "open_issues": 459,
             "owner": "conan-io",
             "repo": "conan",
             "stars": 9556,
@@ -248,7 +248,7 @@
             "open_issues": 168,
             "owner": "cpm-cmake",
             "repo": "CPM.cmake",
-            "stars": 4156,
+            "stars": 4155,
             "topics": [
               "builds",
               "c",
@@ -487,7 +487,7 @@
             "open_issues": 12,
             "owner": "ldionne",
             "repo": "metabench",
-            "stars": 190,
+            "stars": 189,
             "topics": [
               "benchmark",
               "cmake",
@@ -509,7 +509,7 @@
             "id": 42733731,
             "language": "CMake",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-02T18:14:20Z",
+            "last_commit": "2026-11-04T15:27:01Z",
             "open_issues": 0,
             "owner": "KDE",
             "repo": "extra-cmake-modules",
@@ -807,7 +807,7 @@
             "open_issues": 70,
             "owner": "sakra",
             "repo": "cotire",
-            "stars": 1294,
+            "stars": 1293,
             "topics": [
               "cmake"
             ]
@@ -1349,7 +1349,7 @@
             "open_issues": 6,
             "owner": "dockcross",
             "repo": "dockcross",
-            "stars": 3615,
+            "stars": 3613,
             "topics": [
               "c",
               "c-plus-plus",
@@ -1607,7 +1607,7 @@
             "open_issues": 30,
             "owner": "ttroy50",
             "repo": "cmake-examples",
-            "stars": 13067,
+            "stars": 13063,
             "topics": [
               "boost",
               "catch",
@@ -1642,7 +1642,7 @@
             "open_issues": 26,
             "owner": "TheLartians",
             "repo": "ModernCppStarter",
-            "stars": 5410,
+            "stars": 5409,
             "topics": [
               "bootstrap",
               "c",
@@ -2361,27 +2361,6 @@
         },
         {
           "node_type": "item",
-          "title": "cmake-checks-cache",
-          "description": "CMake checks cache helper modules.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "CMake checks cache helper modules – for fast CI CMake builds!",
-            "homepage": null,
-            "id": 96710664,
-            "language": "CMake",
-            "license": "NOASSERTION",
-            "last_commit": "2022-03-04T10:24:14Z",
-            "open_issues": 2,
-            "owner": "cristianadam",
-            "repo": "cmake-checks-cache",
-            "stars": 89,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T02:07:56.155Z"
-        },
-        {
-          "node_type": "item",
           "title": "configure-cmake",
           "description": "configure-cmake is an autotools-style configure script for CMake-based projects.",
           "children": [],
@@ -2397,6 +2376,27 @@
             "owner": "nemequ",
             "repo": "configure-cmake",
             "stars": 88,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
+        },
+        {
+          "node_type": "item",
+          "title": "cmake-checks-cache",
+          "description": "CMake checks cache helper modules.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "CMake checks cache helper modules – for fast CI CMake builds!",
+            "homepage": null,
+            "id": 96710664,
+            "language": "CMake",
+            "license": "NOASSERTION",
+            "last_commit": "2022-03-04T10:24:14Z",
+            "open_issues": 2,
+            "owner": "cristianadam",
+            "repo": "cmake-checks-cache",
+            "stars": 87,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -2716,7 +2716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T23:57:09.535Z",
+    "last_updated": "2026-11-05T00:19:55.110Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CMake resources, scripts, modules and examples.",
