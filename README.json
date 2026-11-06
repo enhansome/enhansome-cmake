@@ -162,11 +162,11 @@
             "id": 68312233,
             "language": "CMake",
             "license": "MIT",
-            "last_commit": "2026-11-05T22:46:40Z",
-            "open_issues": 1055,
+            "last_commit": "2026-11-06T21:25:15Z",
+            "open_issues": 1067,
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27575,
+            "stars": 27579,
             "topics": [
               "c",
               "cmake",
@@ -198,7 +198,7 @@
             "open_issues": 424,
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13338,
+            "stars": 13341,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -215,11 +215,11 @@
             "id": 47190624,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-05T17:08:58Z",
-            "open_issues": 459,
+            "last_commit": "2026-11-06T10:18:51Z",
+            "open_issues": 457,
             "owner": "conan-io",
             "repo": "conan",
-            "stars": 9559,
+            "stars": 9558,
             "topics": [
               "c",
               "cmake",
@@ -248,7 +248,7 @@
             "open_issues": 168,
             "owner": "cpm-cmake",
             "repo": "CPM.cmake",
-            "stars": 4153,
+            "stars": 4152,
             "topics": [
               "builds",
               "c",
@@ -445,7 +445,7 @@
             "open_issues": 20,
             "owner": "rpavlik",
             "repo": "cmake-modules",
-            "stars": 1068,
+            "stars": 1067,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -640,8 +640,8 @@
             "id": 13105609,
             "language": "CMake",
             "license": "NOASSERTION",
-            "last_commit": "2026-07-24T08:34:38Z",
-            "open_issues": 50,
+            "last_commit": "2026-11-06T08:59:18Z",
+            "open_issues": 51,
             "owner": "robotology",
             "repo": "ycm-cmake-modules",
             "stars": 63,
@@ -1349,7 +1349,7 @@
             "open_issues": 6,
             "owner": "dockcross",
             "repo": "dockcross",
-            "stars": 3614,
+            "stars": 3613,
             "topics": [
               "c",
               "c-plus-plus",
@@ -2530,7 +2530,7 @@
             "open_issues": 21,
             "owner": "HEP-SoC",
             "repo": "SoCMake",
-            "stars": 48,
+            "stars": 49,
             "topics": [
               "asic",
               "build-automation",
@@ -2716,7 +2716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T00:09:01.423Z",
+    "last_updated": "2026-11-06T23:42:48.604Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CMake resources, scripts, modules and examples.",
