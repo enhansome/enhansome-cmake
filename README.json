@@ -162,11 +162,11 @@
             "id": 68312233,
             "language": "CMake",
             "license": "MIT",
-            "last_commit": "2026-11-04T20:40:18Z",
-            "open_issues": 1060,
+            "last_commit": "2026-11-05T22:46:40Z",
+            "open_issues": 1055,
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27570,
+            "stars": 27575,
             "topics": [
               "c",
               "cmake",
@@ -198,7 +198,7 @@
             "open_issues": 424,
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13335,
+            "stars": 13338,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -215,11 +215,11 @@
             "id": 47190624,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-04T16:46:31Z",
+            "last_commit": "2026-11-05T17:08:58Z",
             "open_issues": 459,
             "owner": "conan-io",
             "repo": "conan",
-            "stars": 9556,
+            "stars": 9559,
             "topics": [
               "c",
               "cmake",
@@ -248,7 +248,7 @@
             "open_issues": 168,
             "owner": "cpm-cmake",
             "repo": "CPM.cmake",
-            "stars": 4155,
+            "stars": 4153,
             "topics": [
               "builds",
               "c",
@@ -1349,7 +1349,7 @@
             "open_issues": 6,
             "owner": "dockcross",
             "repo": "dockcross",
-            "stars": 3613,
+            "stars": 3614,
             "topics": [
               "c",
               "c-plus-plus",
@@ -1642,7 +1642,7 @@
             "open_issues": 26,
             "owner": "TheLartians",
             "repo": "ModernCppStarter",
-            "stars": 5409,
+            "stars": 5410,
             "topics": [
               "bootstrap",
               "c",
@@ -2627,7 +2627,7 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-11-03T11:22:01Z",
-            "open_issues": 3,
+            "open_issues": 5,
             "owner": "cmakefmt",
             "repo": "cmakefmt",
             "stars": 29,
@@ -2716,7 +2716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T00:19:55.110Z",
+    "last_updated": "2026-11-06T00:09:01.423Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CMake resources, scripts, modules and examples.",
