@@ -162,11 +162,11 @@
             "id": 68312233,
             "language": "CMake",
             "license": "MIT",
-            "last_commit": "2026-11-10T01:25:40Z",
-            "open_issues": 1053,
+            "last_commit": "2026-11-10T23:26:51Z",
+            "open_issues": 1043,
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27590,
+            "stars": 27595,
             "topics": [
               "c",
               "cmake",
@@ -195,10 +195,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-11-03T19:32:55Z",
-            "open_issues": 429,
+            "open_issues": 431,
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13348,
+            "stars": 13350,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -215,11 +215,11 @@
             "id": 47190624,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-06T10:18:51Z",
-            "open_issues": 459,
+            "last_commit": "2026-11-10T17:32:26Z",
+            "open_issues": 461,
             "owner": "conan-io",
             "repo": "conan",
-            "stars": 9562,
+            "stars": 9566,
             "topics": [
               "c",
               "cmake",
@@ -248,7 +248,7 @@
             "open_issues": 168,
             "owner": "cpm-cmake",
             "repo": "CPM.cmake",
-            "stars": 4157,
+            "stars": 4160,
             "topics": [
               "builds",
               "c",
@@ -352,7 +352,7 @@
             "open_issues": 51,
             "owner": "pfultz2",
             "repo": "cget",
-            "stars": 463,
+            "stars": 464,
             "topics": [
               "c",
               "cget",
@@ -640,8 +640,8 @@
             "id": 13105609,
             "language": "CMake",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-06T08:59:18Z",
-            "open_issues": 51,
+            "last_commit": "2026-11-10T08:47:05Z",
+            "open_issues": 50,
             "owner": "robotology",
             "repo": "ycm-cmake-modules",
             "stars": 63,
@@ -1410,7 +1410,7 @@
             "open_issues": 20,
             "owner": "ruslo",
             "repo": "polly",
-            "stars": 867,
+            "stars": 868,
             "topics": [
               "appveyor",
               "cmake",
@@ -1607,7 +1607,7 @@
             "open_issues": 30,
             "owner": "ttroy50",
             "repo": "cmake-examples",
-            "stars": 13061,
+            "stars": 13065,
             "topics": [
               "boost",
               "catch",
@@ -1642,7 +1642,7 @@
             "open_issues": 26,
             "owner": "TheLartians",
             "repo": "ModernCppStarter",
-            "stars": 5411,
+            "stars": 5413,
             "topics": [
               "bootstrap",
               "c",
@@ -1806,7 +1806,7 @@
             "open_issues": 2,
             "owner": "bsamseth",
             "repo": "cpp-project",
-            "stars": 624,
+            "stars": 625,
             "topics": [
               "actions",
               "boilerplate",
@@ -1867,7 +1867,7 @@
             "open_issues": 12,
             "owner": "robotology",
             "repo": "how-to-export-cpp-library",
-            "stars": 373,
+            "stars": 374,
             "topics": [
               "cmake",
               "cmake-examples",
@@ -1892,7 +1892,7 @@
             "open_issues": 1,
             "owner": "Lectem",
             "repo": "cpp-boilerplate",
-            "stars": 331,
+            "stars": 332,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -2210,7 +2210,7 @@
             "open_issues": 2,
             "owner": "scikit-build",
             "repo": "scikit-build",
-            "stars": 534,
+            "stars": 535,
             "topics": [
               "build-tool",
               "c",
@@ -2245,7 +2245,7 @@
             "open_issues": 2,
             "owner": "jlblancoc",
             "repo": "suitesparse-metis-for-windows",
-            "stars": 466,
+            "stars": 467,
             "topics": [
               "c-plus-plus",
               "cmake",
@@ -2270,7 +2270,7 @@
             "open_issues": 25,
             "owner": "regen100",
             "repo": "cmake-language-server",
-            "stars": 408,
+            "stars": 409,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -2595,6 +2595,27 @@
         },
         {
           "node_type": "item",
+          "title": "cmakefmt",
+          "description": "Fast, native CMake formatter written in Rust with format-on-save editor support and a first-party GitHub Action.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A fast, correct CMake formatter — cmake-format, reimagined in Rust.",
+            "homepage": "https://cmakefmt.dev",
+            "id": 1198922986,
+            "language": "Rust",
+            "license": "NOASSERTION",
+            "last_commit": "2026-11-09T12:08:33Z",
+            "open_issues": 16,
+            "owner": "cmakefmt",
+            "repo": "cmakefmt",
+            "stars": 31,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T02:07:56.155Z"
+        },
+        {
+          "node_type": "item",
           "title": "cmake-ast",
           "description": "Python module to reduce a CMake file to an AST.",
           "children": [],
@@ -2610,27 +2631,6 @@
             "owner": "polysquare",
             "repo": "cmake-ast",
             "stars": 31,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T02:07:56.155Z"
-        },
-        {
-          "node_type": "item",
-          "title": "cmakefmt",
-          "description": "Fast, native CMake formatter written in Rust with format-on-save editor support and a first-party GitHub Action.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A fast, correct CMake formatter — cmake-format, reimagined in Rust.",
-            "homepage": "https://cmakefmt.dev",
-            "id": 1198922986,
-            "language": "Rust",
-            "license": "NOASSERTION",
-            "last_commit": "2026-11-09T12:08:33Z",
-            "open_issues": 16,
-            "owner": "cmakefmt",
-            "repo": "cmakefmt",
-            "stars": 30,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -2716,7 +2716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T02:00:25.028Z",
+    "last_updated": "2026-11-10T23:59:33.691Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CMake resources, scripts, modules and examples.",
@@ -2728,7 +2728,7 @@
       "open_issues": 4,
       "owner": "onqtam",
       "repo": "awesome-cmake",
-      "stars": 5439,
+      "stars": 5441,
       "topics": [
         "awesome",
         "awesome-list",
