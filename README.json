@@ -162,11 +162,11 @@
             "id": 68312233,
             "language": "CMake",
             "license": "MIT",
-            "last_commit": "2026-11-08T04:44:07Z",
-            "open_issues": 1059,
+            "last_commit": "2026-11-10T01:25:40Z",
+            "open_issues": 1053,
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27584,
+            "stars": 27590,
             "topics": [
               "c",
               "cmake",
@@ -195,10 +195,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-11-03T19:32:55Z",
-            "open_issues": 427,
+            "open_issues": 429,
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13346,
+            "stars": 13348,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -219,7 +219,7 @@
             "open_issues": 459,
             "owner": "conan-io",
             "repo": "conan",
-            "stars": 9561,
+            "stars": 9562,
             "topics": [
               "c",
               "cmake",
@@ -248,7 +248,7 @@
             "open_issues": 168,
             "owner": "cpm-cmake",
             "repo": "CPM.cmake",
-            "stars": 4154,
+            "stars": 4157,
             "topics": [
               "builds",
               "c",
@@ -509,7 +509,7 @@
             "id": 42733731,
             "language": "CMake",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-07T16:01:35Z",
+            "last_commit": "2026-11-09T15:28:42Z",
             "open_issues": 0,
             "owner": "KDE",
             "repo": "extra-cmake-modules",
@@ -1349,7 +1349,7 @@
             "open_issues": 6,
             "owner": "dockcross",
             "repo": "dockcross",
-            "stars": 3614,
+            "stars": 3613,
             "topics": [
               "c",
               "c-plus-plus",
@@ -1389,7 +1389,7 @@
             "open_issues": 45,
             "owner": "taka-no-me",
             "repo": "android-cmake",
-            "stars": 1231,
+            "stars": 1230,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -1607,7 +1607,7 @@
             "open_issues": 30,
             "owner": "ttroy50",
             "repo": "cmake-examples",
-            "stars": 13060,
+            "stars": 13061,
             "topics": [
               "boost",
               "catch",
@@ -1785,7 +1785,7 @@
             "open_issues": 6,
             "owner": "pabloariasal",
             "repo": "modern-cmake-sample",
-            "stars": 673,
+            "stars": 672,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -2626,11 +2626,11 @@
             "id": 1198922986,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-07T17:32:01Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-09T12:08:33Z",
+            "open_issues": 16,
             "owner": "cmakefmt",
             "repo": "cmakefmt",
-            "stars": 29,
+            "stars": 30,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -2716,7 +2716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T22:49:40.866Z",
+    "last_updated": "2026-11-10T02:00:25.028Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CMake resources, scripts, modules and examples.",
