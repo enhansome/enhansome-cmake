@@ -114,7 +114,7 @@
             "open_issues": 6,
             "owner": "Wigner-GPU-Lab",
             "repo": "Teaching",
-            "stars": 61,
+            "stars": 60,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -162,11 +162,11 @@
             "id": 68312233,
             "language": "CMake",
             "license": "MIT",
-            "last_commit": "2026-11-10T23:26:51Z",
-            "open_issues": 1043,
+            "last_commit": "2026-11-11T21:36:07Z",
+            "open_issues": 1056,
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27595,
+            "stars": 27597,
             "topics": [
               "c",
               "cmake",
@@ -198,7 +198,7 @@
             "open_issues": 431,
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13350,
+            "stars": 13353,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -215,8 +215,8 @@
             "id": 47190624,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-10T17:32:26Z",
-            "open_issues": 461,
+            "last_commit": "2026-11-11T15:31:43Z",
+            "open_issues": 460,
             "owner": "conan-io",
             "repo": "conan",
             "stars": 9566,
@@ -445,7 +445,7 @@
             "open_issues": 20,
             "owner": "rpavlik",
             "repo": "cmake-modules",
-            "stars": 1067,
+            "stars": 1065,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -466,7 +466,7 @@
             "open_issues": 31,
             "owner": "bilke",
             "repo": "cmake-modules",
-            "stars": 591,
+            "stars": 590,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -1642,7 +1642,7 @@
             "open_issues": 26,
             "owner": "TheLartians",
             "repo": "ModernCppStarter",
-            "stars": 5413,
+            "stars": 5411,
             "topics": [
               "bootstrap",
               "c",
@@ -1733,7 +1733,7 @@
             "open_issues": 1,
             "owner": "pr0g",
             "repo": "cmake-examples",
-            "stars": 1236,
+            "stars": 1237,
             "topics": [
               "cmake",
               "cmake-examples",
@@ -1913,7 +1913,7 @@
             "open_issues": 1,
             "owner": "euler0",
             "repo": "mini-cmake-qt",
-            "stars": 221,
+            "stars": 220,
             "topics": [
               "cmake",
               "qt",
@@ -2007,7 +2007,7 @@
             "open_issues": 2,
             "owner": "arnavb",
             "repo": "cpp14-project-template",
-            "stars": 68,
+            "stars": 67,
             "topics": [
               "appveyor",
               "cmake",
@@ -2716,7 +2716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T23:59:33.691Z",
+    "last_updated": "2026-11-12T01:28:57.063Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CMake resources, scripts, modules and examples.",
@@ -2728,7 +2728,7 @@
       "open_issues": 4,
       "owner": "onqtam",
       "repo": "awesome-cmake",
-      "stars": 5441,
+      "stars": 5440,
       "topics": [
         "awesome",
         "awesome-list",
