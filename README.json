@@ -162,11 +162,11 @@
             "id": 68312233,
             "language": "CMake",
             "license": "MIT",
-            "last_commit": "2026-11-16T22:40:23Z",
-            "open_issues": 1059,
+            "last_commit": "2026-11-18T01:28:07Z",
+            "open_issues": 1066,
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27609,
+            "stars": 27614,
             "topics": [
               "c",
               "cmake",
@@ -195,10 +195,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-11-03T19:32:55Z",
-            "open_issues": 442,
+            "open_issues": 444,
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13362,
+            "stars": 13366,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -215,8 +215,8 @@
             "id": 47190624,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-16T17:21:15Z",
-            "open_issues": 472,
+            "last_commit": "2026-11-17T16:01:17Z",
+            "open_issues": 463,
             "owner": "conan-io",
             "repo": "conan",
             "stars": 9567,
@@ -248,7 +248,7 @@
             "open_issues": 169,
             "owner": "cpm-cmake",
             "repo": "CPM.cmake",
-            "stars": 4165,
+            "stars": 4166,
             "topics": [
               "builds",
               "c",
@@ -329,7 +329,7 @@
             "open_issues": 58,
             "owner": "floooh",
             "repo": "fips",
-            "stars": 507,
+            "stars": 506,
             "topics": [
               "fips"
             ]
@@ -1345,8 +1345,8 @@
             "id": 35052287,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-11-16T18:14:10Z",
-            "open_issues": 6,
+            "last_commit": "2026-11-17T11:12:29Z",
+            "open_issues": 5,
             "owner": "dockcross",
             "repo": "dockcross",
             "stars": 3614,
@@ -1642,7 +1642,7 @@
             "open_issues": 26,
             "owner": "TheLartians",
             "repo": "ModernCppStarter",
-            "stars": 5413,
+            "stars": 5414,
             "topics": [
               "bootstrap",
               "c",
@@ -2716,7 +2716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T02:26:10.855Z",
+    "last_updated": "2026-11-18T01:34:59.786Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CMake resources, scripts, modules and examples.",
@@ -2728,7 +2728,7 @@
       "open_issues": 4,
       "owner": "onqtam",
       "repo": "awesome-cmake",
-      "stars": 5441,
+      "stars": 5443,
       "topics": [
         "awesome",
         "awesome-list",
