@@ -162,11 +162,11 @@
             "id": 68312233,
             "language": "CMake",
             "license": "MIT",
-            "last_commit": "2026-11-18T01:28:07Z",
+            "last_commit": "2026-11-19T01:06:44Z",
             "open_issues": 1066,
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27614,
+            "stars": 27618,
             "topics": [
               "c",
               "cmake",
@@ -215,11 +215,11 @@
             "id": 47190624,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-17T16:01:17Z",
-            "open_issues": 463,
+            "last_commit": "2026-11-18T18:02:03Z",
+            "open_issues": 465,
             "owner": "conan-io",
             "repo": "conan",
-            "stars": 9567,
+            "stars": 9568,
             "topics": [
               "c",
               "cmake",
@@ -248,7 +248,7 @@
             "open_issues": 169,
             "owner": "cpm-cmake",
             "repo": "CPM.cmake",
-            "stars": 4166,
+            "stars": 4168,
             "topics": [
               "builds",
               "c",
@@ -352,7 +352,7 @@
             "open_issues": 51,
             "owner": "pfultz2",
             "repo": "cget",
-            "stars": 464,
+            "stars": 465,
             "topics": [
               "c",
               "cget",
@@ -509,7 +509,7 @@
             "id": 42733731,
             "language": "CMake",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-16T06:33:37Z",
+            "last_commit": "2026-11-18T22:55:18Z",
             "open_issues": 0,
             "owner": "KDE",
             "repo": "extra-cmake-modules",
@@ -1607,7 +1607,7 @@
             "open_issues": 30,
             "owner": "ttroy50",
             "repo": "cmake-examples",
-            "stars": 13066,
+            "stars": 13070,
             "topics": [
               "boost",
               "catch",
@@ -2530,7 +2530,7 @@
             "open_issues": 21,
             "owner": "HEP-SoC",
             "repo": "SoCMake",
-            "stars": 50,
+            "stars": 51,
             "topics": [
               "asic",
               "build-automation",
@@ -2716,7 +2716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T01:34:59.786Z",
+    "last_updated": "2026-11-19T01:07:32.158Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CMake resources, scripts, modules and examples.",
