@@ -162,11 +162,11 @@
             "id": 68312233,
             "language": "CMake",
             "license": "MIT",
-            "last_commit": "2026-11-19T01:06:44Z",
-            "open_issues": 1066,
+            "last_commit": "2026-11-20T00:47:49Z",
+            "open_issues": 1063,
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27618,
+            "stars": 27624,
             "topics": [
               "c",
               "cmake",
@@ -198,7 +198,7 @@
             "open_issues": 444,
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13366,
+            "stars": 13370,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -215,8 +215,8 @@
             "id": 47190624,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-18T18:02:03Z",
-            "open_issues": 465,
+            "last_commit": "2026-11-19T17:17:46Z",
+            "open_issues": 467,
             "owner": "conan-io",
             "repo": "conan",
             "stars": 9568,
@@ -308,7 +308,7 @@
             "open_issues": 14,
             "owner": "iauns",
             "repo": "cpm",
-            "stars": 751,
+            "stars": 752,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -352,7 +352,7 @@
             "open_issues": 51,
             "owner": "pfultz2",
             "repo": "cget",
-            "stars": 465,
+            "stars": 464,
             "topics": [
               "c",
               "cget",
@@ -509,7 +509,7 @@
             "id": 42733731,
             "language": "CMake",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-18T22:55:18Z",
+            "last_commit": "2026-11-19T13:54:09Z",
             "open_issues": 0,
             "owner": "KDE",
             "repo": "extra-cmake-modules",
@@ -1389,7 +1389,7 @@
             "open_issues": 45,
             "owner": "taka-no-me",
             "repo": "android-cmake",
-            "stars": 1231,
+            "stars": 1230,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -1410,7 +1410,7 @@
             "open_issues": 20,
             "owner": "ruslo",
             "repo": "polly",
-            "stars": 868,
+            "stars": 866,
             "topics": [
               "appveyor",
               "cmake",
@@ -1436,7 +1436,7 @@
             "open_issues": 1,
             "owner": "cristeab",
             "repo": "ios-cmake",
-            "stars": 317,
+            "stars": 316,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -1607,7 +1607,7 @@
             "open_issues": 30,
             "owner": "ttroy50",
             "repo": "cmake-examples",
-            "stars": 13070,
+            "stars": 13072,
             "topics": [
               "boost",
               "catch",
@@ -1712,7 +1712,7 @@
             "open_issues": 42,
             "owner": "vector-of-bool",
             "repo": "pitchfork",
-            "stars": 1260,
+            "stars": 1261,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -1806,7 +1806,7 @@
             "open_issues": 2,
             "owner": "bsamseth",
             "repo": "cpp-project",
-            "stars": 625,
+            "stars": 624,
             "topics": [
               "actions",
               "boilerplate",
@@ -1867,7 +1867,7 @@
             "open_issues": 12,
             "owner": "robotology",
             "repo": "how-to-export-cpp-library",
-            "stars": 374,
+            "stars": 373,
             "topics": [
               "cmake",
               "cmake-examples",
@@ -1892,7 +1892,7 @@
             "open_issues": 1,
             "owner": "Lectem",
             "repo": "cpp-boilerplate",
-            "stars": 332,
+            "stars": 331,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -2094,7 +2094,7 @@
             "open_issues": 1,
             "owner": "abandonware-pjz37",
             "repo": "hunter-simple",
-            "stars": 50,
+            "stars": 51,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -2210,7 +2210,7 @@
             "open_issues": 2,
             "owner": "scikit-build",
             "repo": "scikit-build",
-            "stars": 535,
+            "stars": 534,
             "topics": [
               "build-tool",
               "c",
@@ -2245,7 +2245,7 @@
             "open_issues": 2,
             "owner": "jlblancoc",
             "repo": "suitesparse-metis-for-windows",
-            "stars": 467,
+            "stars": 465,
             "topics": [
               "c-plus-plus",
               "cmake",
@@ -2270,7 +2270,7 @@
             "open_issues": 25,
             "owner": "regen100",
             "repo": "cmake-language-server",
-            "stars": 409,
+            "stars": 408,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -2716,7 +2716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T01:07:32.158Z",
+    "last_updated": "2026-11-20T01:13:24.595Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CMake resources, scripts, modules and examples.",
@@ -2728,7 +2728,7 @@
       "open_issues": 4,
       "owner": "onqtam",
       "repo": "awesome-cmake",
-      "stars": 5443,
+      "stars": 5444,
       "topics": [
         "awesome",
         "awesome-list",
