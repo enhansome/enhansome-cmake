@@ -162,11 +162,11 @@
             "id": 68312233,
             "language": "CMake",
             "license": "MIT",
-            "last_commit": "2026-11-21T00:25:58Z",
-            "open_issues": 1051,
+            "last_commit": "2026-11-21T18:19:38Z",
+            "open_issues": 1040,
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27627,
+            "stars": 27629,
             "topics": [
               "c",
               "cmake",
@@ -195,10 +195,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-11-20T21:17:45Z",
-            "open_issues": 444,
+            "open_issues": 445,
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13371,
+            "stars": 13372,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -216,7 +216,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-20T13:26:48Z",
-            "open_issues": 465,
+            "open_issues": 466,
             "owner": "conan-io",
             "repo": "conan",
             "stars": 9568,
@@ -248,7 +248,7 @@
             "open_issues": 169,
             "owner": "cpm-cmake",
             "repo": "CPM.cmake",
-            "stars": 4169,
+            "stars": 4170,
             "topics": [
               "builds",
               "c",
@@ -326,7 +326,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-01-26T18:34:50Z",
-            "open_issues": 58,
+            "open_issues": 59,
             "owner": "floooh",
             "repo": "fips",
             "stars": 506,
@@ -1349,7 +1349,7 @@
             "open_issues": 5,
             "owner": "dockcross",
             "repo": "dockcross",
-            "stars": 3614,
+            "stars": 3613,
             "topics": [
               "c",
               "c-plus-plus",
@@ -1607,7 +1607,7 @@
             "open_issues": 30,
             "owner": "ttroy50",
             "repo": "cmake-examples",
-            "stars": 13072,
+            "stars": 13071,
             "topics": [
               "boost",
               "catch",
@@ -2716,7 +2716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T00:45:28.333Z",
+    "last_updated": "2026-11-21T23:45:57.172Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CMake resources, scripts, modules and examples.",
