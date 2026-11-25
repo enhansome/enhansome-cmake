@@ -162,11 +162,11 @@
             "id": 68312233,
             "language": "CMake",
             "license": "MIT",
-            "last_commit": "2026-11-24T02:47:33Z",
-            "open_issues": 1034,
+            "last_commit": "2026-11-24T23:41:38Z",
+            "open_issues": 1048,
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27635,
+            "stars": 27636,
             "topics": [
               "c",
               "cmake",
@@ -195,10 +195,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-11-20T21:17:45Z",
-            "open_issues": 445,
+            "open_issues": 443,
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13375,
+            "stars": 13378,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -215,11 +215,11 @@
             "id": 47190624,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-23T08:06:55Z",
-            "open_issues": 464,
+            "last_commit": "2026-11-24T09:59:25Z",
+            "open_issues": 463,
             "owner": "conan-io",
             "repo": "conan",
-            "stars": 9567,
+            "stars": 9570,
             "topics": [
               "c",
               "cmake",
@@ -329,7 +329,7 @@
             "open_issues": 58,
             "owner": "floooh",
             "repo": "fips",
-            "stars": 506,
+            "stars": 507,
             "topics": [
               "fips"
             ]
@@ -509,7 +509,7 @@
             "id": 42733731,
             "language": "CMake",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-22T22:17:05Z",
+            "last_commit": "2026-11-24T15:01:24Z",
             "open_issues": 0,
             "owner": "KDE",
             "repo": "extra-cmake-modules",
@@ -1607,7 +1607,7 @@
             "open_issues": 30,
             "owner": "ttroy50",
             "repo": "cmake-examples",
-            "stars": 13072,
+            "stars": 13073,
             "topics": [
               "boost",
               "catch",
@@ -1642,7 +1642,7 @@
             "open_issues": 26,
             "owner": "TheLartians",
             "repo": "ModernCppStarter",
-            "stars": 5416,
+            "stars": 5417,
             "topics": [
               "bootstrap",
               "c",
@@ -1712,7 +1712,7 @@
             "open_issues": 42,
             "owner": "vector-of-bool",
             "repo": "pitchfork",
-            "stars": 1261,
+            "stars": 1262,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -2716,7 +2716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T04:15:39.901Z",
+    "last_updated": "2026-11-25T03:00:19.872Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CMake resources, scripts, modules and examples.",
