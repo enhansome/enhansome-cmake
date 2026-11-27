@@ -162,11 +162,11 @@
             "id": 68312233,
             "language": "CMake",
             "license": "MIT",
-            "last_commit": "2026-11-26T01:59:44Z",
-            "open_issues": 1040,
+            "last_commit": "2026-11-26T19:47:19Z",
+            "open_issues": 1050,
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27645,
+            "stars": 27650,
             "topics": [
               "c",
               "cmake",
@@ -198,7 +198,7 @@
             "open_issues": 443,
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13380,
+            "stars": 13387,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -215,11 +215,11 @@
             "id": 47190624,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-25T13:18:23Z",
-            "open_issues": 468,
+            "last_commit": "2026-11-26T16:15:58Z",
+            "open_issues": 466,
             "owner": "conan-io",
             "repo": "conan",
-            "stars": 9569,
+            "stars": 9567,
             "topics": [
               "c",
               "cmake",
@@ -509,7 +509,7 @@
             "id": 42733731,
             "language": "CMake",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-25T18:15:52Z",
+            "last_commit": "2026-11-26T07:56:02Z",
             "open_issues": 0,
             "owner": "KDE",
             "repo": "extra-cmake-modules",
@@ -1607,7 +1607,7 @@
             "open_issues": 30,
             "owner": "ttroy50",
             "repo": "cmake-examples",
-            "stars": 13074,
+            "stars": 13075,
             "topics": [
               "boost",
               "catch",
@@ -2270,7 +2270,7 @@
             "open_issues": 25,
             "owner": "regen100",
             "repo": "cmake-language-server",
-            "stars": 408,
+            "stars": 409,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -2526,11 +2526,11 @@
             "id": 774482172,
             "language": "CMake",
             "license": "LGPL-3.0",
-            "last_commit": "2026-11-16T13:48:35Z",
-            "open_issues": 21,
+            "last_commit": "2026-11-26T15:03:49Z",
+            "open_issues": 20,
             "owner": "HEP-SoC",
             "repo": "SoCMake",
-            "stars": 51,
+            "stars": 52,
             "topics": [
               "asic",
               "build-automation",
@@ -2716,7 +2716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T02:08:54.811Z",
+    "last_updated": "2026-11-27T02:08:01.524Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CMake resources, scripts, modules and examples.",
@@ -2728,7 +2728,7 @@
       "open_issues": 5,
       "owner": "onqtam",
       "repo": "awesome-cmake",
-      "stars": 5452,
+      "stars": 5453,
       "topics": [
         "awesome",
         "awesome-list",
