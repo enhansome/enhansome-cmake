@@ -162,11 +162,11 @@
             "id": 68312233,
             "language": "CMake",
             "license": "MIT",
-            "last_commit": "2026-11-26T19:47:19Z",
-            "open_issues": 1050,
+            "last_commit": "2026-11-27T23:47:11Z",
+            "open_issues": 1062,
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27650,
+            "stars": 27654,
             "topics": [
               "c",
               "cmake",
@@ -198,7 +198,7 @@
             "open_issues": 443,
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13387,
+            "stars": 13391,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -215,8 +215,8 @@
             "id": 47190624,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-26T16:15:58Z",
-            "open_issues": 466,
+            "last_commit": "2026-11-27T09:56:48Z",
+            "open_issues": 469,
             "owner": "conan-io",
             "repo": "conan",
             "stars": 9567,
@@ -245,10 +245,10 @@
             "language": "CMake",
             "license": "MIT",
             "last_commit": "2026-09-24T19:23:04Z",
-            "open_issues": 171,
+            "open_issues": 172,
             "owner": "cpm-cmake",
             "repo": "CPM.cmake",
-            "stars": 4170,
+            "stars": 4171,
             "topics": [
               "builds",
               "c",
@@ -644,7 +644,7 @@
             "open_issues": 50,
             "owner": "robotology",
             "repo": "ycm-cmake-modules",
-            "stars": 63,
+            "stars": 62,
             "topics": [
               "build-system",
               "build-tool",
@@ -1607,7 +1607,7 @@
             "open_issues": 30,
             "owner": "ttroy50",
             "repo": "cmake-examples",
-            "stars": 13075,
+            "stars": 13076,
             "topics": [
               "boost",
               "catch",
@@ -1867,7 +1867,7 @@
             "open_issues": 12,
             "owner": "robotology",
             "repo": "how-to-export-cpp-library",
-            "stars": 373,
+            "stars": 372,
             "topics": [
               "cmake",
               "cmake-examples",
@@ -2609,7 +2609,7 @@
             "open_issues": 23,
             "owner": "cmakefmt",
             "repo": "cmakefmt",
-            "stars": 35,
+            "stars": 36,
             "topics": []
           },
           "first_seen": "2026-08-29T02:07:56.155Z"
@@ -2716,7 +2716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T02:08:01.524Z",
+    "last_updated": "2026-11-28T01:55:36.077Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome CMake resources, scripts, modules and examples.",
